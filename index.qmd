@@ -1,11 +1,22 @@
 ---
 title: "Jiadong Mao"
+image: media/smallHeadShot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links: 
+    - text: GitHub
+      href: https://github.com/jiadongm 
+    - text: X (Twitter)
+      href: https://x.com/jiadong_mao 
+    - text: Email
+      href: mailto:chiatungmao@gmail.com
 ---
 
-This is a Quarto website.
+# Bio
+I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# News
 
-```{r}
-1 + 1
-```
