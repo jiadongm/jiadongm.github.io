@@ -20,3 +20,4 @@ I'm a computational biologist at Melbourne Integrative Genomics (MIG), the Unive
 
 # News
 
+- $\Phi$-space [manuscript](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full) and R package [PhiSpace](https://github.com/jiadongm/PhiSpace) are online now! You can also listen to a recorded talk at this [mixOmics webpage](http://mixomics.org/2024/06/phispace/).
