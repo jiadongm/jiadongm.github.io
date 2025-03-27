@@ -17,7 +17,9 @@ about:
 
 # Statistics, biology and people
 
-I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. I use my expertise in statistics to develop computational tools to translate big and complex biomedical data into biological findings. My current research program is to decipher complex cell states in single-cell and spatial omics data. Curiosity is my top value. Learning new things about biology, statistics and history of science makes me excited. My biggest satisfaction at work comes from helping scientists and clinicians to make sense of their data. In return, they have to teach me biology!
+I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. Based on my expertise in statistics and coing, I develop novel computational tools to translate big and complex biomedical data into new knowledge. My current research program is to decipher complex cell states in single-cell and spatial omics data. 
+
+Curiosity is my top value. Learning new things about biology and statistics excites me. My biggest satisfaction at work comes from helping scientists and clinicians to make sense of their data. In return, they'll have to teach me biology!
 
 I spend most of spare time parenting and reading about intellectual history (also known as history of ideas, including history of science). 
 
