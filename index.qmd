@@ -9,15 +9,19 @@ about:
   links: 
     - text: GitHub
       href: https://github.com/jiadongm 
-    - text: X (Twitter)
-      href: https://x.com/jiadong_mao 
+    - text: BlueSky
+      href: https://bsky.app/profile/jiadongm.bsky.social
     - text: Email
       href: mailto:chiatungmao@gmail.com
 ---
 
 # Bio
-I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne.
+
+I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. I use my expertise in statistics to develop computational tools for big and complex biomedical data, such as single-cell and spatial omics data. I
 
 # News
-
-- $\Phi$-space [manuscript](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full) and R package [PhiSpace](https://github.com/jiadongm/PhiSpace) are online now! You can also listen to a recorded talk at this [mixOmics webpage](http://mixomics.org/2024/06/phispace/).
+- Our MIG Spatial Transcriptomics Data Analysis has been scheduled in August 2025. Stay tuned!
+- I was invited to attend the [Spatial Omics workshop](https://www.birs.ca/events/2025/5-day-workshops/25w5391) in Hangzhou China in June 2025.
+-   $\Phi$-space [pkgdown cite](https://jiadongm.github.io/PhiSpace/) is live now. Check out case studies for spatial and stem cell biology!
+-   $\Phi$-space ST [manuscript](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1.article-metrics) for spatial RNA-seq is on bioRxiv now.
+-   $\Phi$-space [manuscript](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full) and R package [PhiSpace](https://github.com/jiadongm/PhiSpace) are online now! You can also listen to a recorded talk at this [mixOmics webpage](http://mixomics.org/2024/06/phispace/).
