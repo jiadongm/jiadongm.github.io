@@ -10,7 +10,6 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - about.qmd
 
 format:
   html:

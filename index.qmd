@@ -15,9 +15,10 @@ about:
       href: mailto:chiatungmao@gmail.com
 ---
 
-# Bio
+# Statistics, biology and people
 
-I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. I use my expertise in statistics to develop computational tools for big and complex biomedical data, such as single-cell and spatial omics data. I
+I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. I use my expertise in statistics to develop computational tools to translate big and complex biomedical data into biological findings. My current research program is to decipher complex cell states in single-cell and spatial omics data. Curiosity is my top value. Learning new things about biology, statistics and history of science make me excited.
+
 
 # News
 - Our MIG Spatial Transcriptomics Data Analysis has been scheduled in August 2025. Stay tuned!
