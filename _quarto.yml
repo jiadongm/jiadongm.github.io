@@ -10,8 +10,7 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - href: invited.qmd
-        text: Talks
+      - invited.qmd
 
 format:
   html:
