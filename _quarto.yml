@@ -11,6 +11,7 @@ website:
       - href: publications.qmd
         text: Publications
       - invited.qmd
+      - random.qmd
 
 format:
   html:
