@@ -1,0 +1,10 @@
+---
+title: "My First Blog Post"
+description: "Brief description of the post"
+author: "Your Name"
+date: "2025-03-28"
+categories: [category1, category2]
+# image: "thumbnail.jpg" # Optional
+---
+
+Your blog post content goes here...

@@ -7,11 +7,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: publications.qmd
-        text: Publications
-      - invited.qmd
-      - random.qmd
+        text: "Publications"
+      - text: "Talks"
+        href: invited.qmd
+      - text: "Random thoughts"
+        href: blog/index.qmd
 
 format:
   html:

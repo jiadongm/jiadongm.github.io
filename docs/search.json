@@ -33,5 +33,19 @@
     "title": "Random thoughts",
     "section": "",
     "text": "This is a blog for reading notes, coding tips, research ideas and other random thoughts."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Philosophical naturalist",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\ncategory1\n\n\ncategory2\n\n\n\nBrief description of the post\n\n\n\n\n\nMar 28, 2025\n\n\nYour Name\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/test/index.html",
+    "href": "blog/posts/test/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Your blog post content goes here…"
   }
 ]
