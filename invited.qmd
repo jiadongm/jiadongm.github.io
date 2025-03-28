@@ -1,0 +1,18 @@
+---
+title: "Invited talks, conference talks and posters"
+---
+
+StableMate. Shuai Li Lab, Melbourne School of Population & Global Health, Apr 2025
+
+
+[PhiSpace ST for spatial biology discovery](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/PhiSpaceST_MIG_seminar.pdf). Australian BioCommons (online), Mar 2025; Murdoch Children's Research Institute, March 2025; Melbourne Integtative Genomics Monthly Seminar. Feb 2025
+
+A tale of two spaces (poster). Lorne Genome 2025.
+
+PhiSpace for inferring cell differentiation trajectory. Oz Single Cell Hackthon, Sydney, Dec 2024
+
+Generative deep learning models for scRNA-seq data analysis. AMSI BioInfoSummer, Melbourne, Dec 2024
+
+What's so special about spatial transcriptomics?
+UniMelb School of Mathematics and Statistics Colloquium. Jun 2024
+
