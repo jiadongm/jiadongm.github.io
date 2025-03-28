@@ -7,7 +7,7 @@ title: "Invited talks, conference talks and posters"
 
 [PhiSpace ST for spatial biology discovery](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/PhiSpaceST_MIG_seminar.pdf). Australian BioCommons (online), Mar 2025; Murdoch Children's Research Institute, March 2025; Melbourne Integtative Genomics Monthly Seminar. Feb 2025
 
-A tale of two spaces (poster). Lorne Genome 2025.
+[A tale of two spaces (poster)](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/Lorne2025-Posters-JiadongMao.pdf). Lorne Genome 2025.
 
 PhiSpace for inferring cell differentiation trajectory. Oz Single Cell Hackthon, Sydney, Dec 2024
 
