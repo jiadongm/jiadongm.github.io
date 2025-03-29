@@ -37,9 +37,9 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Philosophical naturalist",
+    "title": "Birth of a naturalist",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\ncategory1\n\n\ncategory2\n\n\n\nBrief description of the post\n\n\n\n\n\nMar 28, 2025\n\n\nYour Name\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBirth of a Naturalist\n\n\n\n\n\n\nPersonal Reflection\n\n\n\nWhy computational biology\n\n\n\n\n\nMar 28, 2025\n\n\nJiadong Mao\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/test/index.html",
@@ -47,5 +47,12 @@
     "title": "My First Blog Post",
     "section": "",
     "text": "Your blog post content goes here…"
+  },
+  {
+    "objectID": "blog/posts/BirthOfANaturalist/index.html",
+    "href": "blog/posts/BirthOfANaturalist/index.html",
+    "title": "Birth of a Naturalist",
+    "section": "",
+    "text": "The Irish poet Seamus Heaney’s first published collection of poems is titled ‘Death of a Naturalist’. TBC"
   }
 ]

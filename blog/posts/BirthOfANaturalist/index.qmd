@@ -1,0 +1,10 @@
+---
+title: "Birth of a Naturalist"
+description: "Why computational biology"
+author: "Jiadong Mao"
+date: "2025-03-28"
+categories: [Personal Reflection]
+# image: "thumbnail.jpg" # Optional
+---
+
+The Irish poet Seamus Heaney's first published collection of poems is titled 'Death of a Naturalist'. TBC
