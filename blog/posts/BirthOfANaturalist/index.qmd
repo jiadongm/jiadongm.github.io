@@ -1,5 +1,5 @@
 ---
-title: "Birth of a Naturalist"
+title: "Rebirth of a Naturalist"
 description: "Why computational biology"
 author: "Jiadong Mao"
 date: "2025-03-28"
