@@ -2,20 +2,14 @@
 title: "Publications"
 ---
 
-Deng, Y., Mao, J*., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. bioRxiv. [Co-senior author]
+Deng, Y., **Mao, J**., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645629v1). \[Co-senior author\]
 
-Mao, J.*, Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics
-studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
+**Mao, J.**, Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
 
-Mao, J.*, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell
-multi-omics data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full). [Seminar recording](https://mixomics.org/2024/06/phispace/). [Under review at Genome Biology]
+**Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full). [Seminar recording](https://mixomics.org/2024/06/phispace/). \[Under review at Genome Biology\]
 
-Hesse S., Mao J.*, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas
-P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Submitted). A
-molecular atlas of human granulopoiesis. [Human Granulopoiesis Atlas](https://granulopoiesis.com/)
+Hesse S., **Mao J.**, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Submitted). A molecular atlas of human granulopoiesis. [Human Granulopoiesis Atlas](https://granulopoiesis.com/)
 
-Deng, Y., Mao, J., Choi, J. & Lê Cao, K.-A. (2024). StableMate: a statistical method to select
-stable predictors in omics data. [*NAR Genomics and Bioinformatics*](https://academic.oup.com/nargab/article/6/4/lqae130/7786164). [Co-senior author]
+Deng, Y., **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2024). StableMate: a statistical method to select stable predictors in omics data. [*NAR Genomics and Bioinformatics*](https://academic.oup.com/nargab/article/6/4/lqae130/7786164). \[Co-senior author\]
 
-Camirand-Lemyre, F., Delaigle, A. and Mao, J.* (Under review). Nonparametric regression esti-
-mation for streaming data. [Author ranked alphabetically]
+Camirand-Lemyre, F., Delaigle, A. and **Mao, J.** (Under review). Nonparametric regression esti- mation for streaming data. \[Author ranked alphabetically\]

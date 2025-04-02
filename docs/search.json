@@ -18,7 +18,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Deng, Y., Mao, J*., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. bioRxiv. [Co-senior author]\nMao, J.*, Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. bioRxiv. Seminar recording\nMao, J.*, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. bioRxiv. Seminar recording. [Under review at Genome Biology]\nHesse S., Mao J.*, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Submitted). A molecular atlas of human granulopoiesis. Human Granulopoiesis Atlas\nDeng, Y., Mao, J., Choi, J. & Lê Cao, K.-A. (2024). StableMate: a statistical method to select stable predictors in omics data. NAR Genomics and Bioinformatics. [Co-senior author]\nCamirand-Lemyre, F., Delaigle, A. and Mao, J.* (Under review). Nonparametric regression esti- mation for streaming data. [Author ranked alphabetically]"
+    "text": "Deng, Y., Mao, J., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. bioRxiv. [Co-senior author]\nMao, J., Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. bioRxiv. Seminar recording\nMao, J., Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. bioRxiv. Seminar recording. [Under review at Genome Biology]\nHesse S., Mao J., Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Submitted). A molecular atlas of human granulopoiesis. Human Granulopoiesis Atlas\nDeng, Y., Mao, J., Choi, J. & Lê Cao, K.-A. (2024). StableMate: a statistical method to select stable predictors in omics data. NAR Genomics and Bioinformatics. [Co-senior author]\nCamirand-Lemyre, F., Delaigle, A. and Mao, J. (Under review). Nonparametric regression esti- mation for streaming data. [Author ranked alphabetically]"
   },
   {
     "objectID": "invited.html",
@@ -39,7 +39,7 @@
     "href": "blog/index.html",
     "title": "Rebirth of a naturalist",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBirth of a Naturalist\n\n\n\n\n\n\nPersonal Reflection\n\n\n\nWhy computational biology\n\n\n\n\n\nMar 28, 2025\n\n\nJiadong Mao\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRebirth of a Naturalist\n\n\n\n\n\n\nPersonal Reflection\n\n\n\nWhy computational biology\n\n\n\n\n\nMar 28, 2025\n\n\nJiadong Mao\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/test/index.html",
@@ -51,7 +51,7 @@
   {
     "objectID": "blog/posts/BirthOfANaturalist/index.html",
     "href": "blog/posts/BirthOfANaturalist/index.html",
-    "title": "Birth of a Naturalist",
+    "title": "Rebirth of a Naturalist",
     "section": "",
     "text": "The Irish poet Seamus Heaney’s first published collection of poems is titled ‘Death of a Naturalist’. TBC"
   }
