@@ -17,16 +17,16 @@ about:
 
 # Statistics, biology and people
 
-I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. Based on my expertise in statistics and coing, I develop novel computational tools to translate big and complex biomedical data into new knowledge. My current research program is to decipher complex cell states in single-cell and spatial omics data. 
+I'm a computational biologist at Melbourne Integrative Genomics (MIG), the University of Melbourne. Based on my expertise in statistics and coing, I develop novel computational tools to translate big and complex biomedical data into new knowledge. My current research program is to decipher complex cell states in single-cell and spatial omics data.
 
 Curiosity is my top value. Learning new things about biology and statistics excites me. My biggest satisfaction at work comes from helping scientists and clinicians to make sense of their data. In return, they'll have to teach me biology!
 
-I spend most of spare time parenting and reading about intellectual history (also known as history of ideas, including history of science). 
-
+I spend most of spare time parenting and reading about intellectual history (also known as history of ideas, including history of science).
 
 # News
-- Our MIG Spatial Transcriptomics Data Analysis has been scheduled in August 2025. Stay tuned!
-- I was invited to attend the [Spatial Omics workshop](https://www.birs.ca/events/2025/5-day-workshops/25w5391) in Hangzhou China in June 2025.
+
+-   Our MIG Spatial Transcriptomics Data Analysis has been scheduled in August 2025. Stay tuned!
+-   I was invited to attend the [Spatial Omics workshop](https://www.birs.ca/events/2025/5-day-workshops/25w5391) in Hangzhou China in June 2025.
 -   $\Phi$-space [pkgdown site](https://jiadongm.github.io/PhiSpace/) is live now. Check out case studies for spatial and stem cell biology!
 -   $\Phi$-space ST [manuscript](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1.article-metrics) for spatial RNA-seq is on bioRxiv now.
 -   $\Phi$-space [manuscript](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full) and R package [PhiSpace](https://github.com/jiadongm/PhiSpace) are online now! You can also listen to a recorded talk at this [mixOmics webpage](http://mixomics.org/2024/06/phispace/).

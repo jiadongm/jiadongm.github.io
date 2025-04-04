@@ -8,8 +8,8 @@ Deng, Y., **Mao, J**., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable 
 
 **Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full). [Seminar recording](https://mixomics.org/2024/06/phispace/). \[Under review at Genome Biology\]
 
-Hesse S., **Mao J.**, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Under Review. at Nature Communications). A molecular atlas of human granulopoiesis. [Human Granulopoiesis Atlas](https://granulopoiesis.com/)
+Hesse S., **Mao J.**, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Under Review). A molecular atlas of human granulopoiesis. \[Under review at Nature Communications\] [Human Granulopoiesis Atlas](https://granulopoiesis.com/)
 
 Deng, Y., **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2024). StableMate: a statistical method to select stable predictors in omics data. [*NAR Genomics and Bioinformatics*](https://academic.oup.com/nargab/article/6/4/lqae130/7786164). \[Co-senior author\]
 
-Camirand-Lemyre, F., Delaigle, A. and **Mao, J.** (Under review). Nonparametric regression esti- mation for streaming data. \[Author ranked alphabetically\]
+Camirand-Lemyre, F., Delaigle, A. and **Mao, J.** (Under Review). Nonparametric regression esti- mation for streaming data. \[Under review at Biometrika. Author ranked alphabetically\]
