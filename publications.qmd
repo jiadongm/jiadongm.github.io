@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+Kodikara, S., **Mao, J.**, San Valentin, E. M. D., Do, K.-A., Reyes-Gibby, C. & Lê Cao, K.-A. (2025). Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1}{\emph{bioRxiv}}). \[Co-first author\]
+
 Deng, Y., **Mao, J**., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645629v1). \[Co-senior author\]
 
 **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)

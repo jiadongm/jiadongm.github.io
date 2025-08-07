@@ -2,8 +2,13 @@
 title: "Talks & posters"
 ---
 
+Research seminar: $\Phi$-Space for cell states discovery in single-cell and spatial omics data. Peter Doherty Institute, Jul 2025.
 
-[From biology to statistics, and back](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/RMIT_guestLecture_Apr2025.pdf). Guest lecture at RMIT University, Apr 2025. 
+[Invited talk](https://www.birs.ca/events/2025/5-day-workshops/25w5391/videos/watch/202506161420-Mao.html) at Workshop: Spatial Omics -- Integrating Biotechnologies, Methodologies and Applications, Hangzhou, China, June 2025.
+
+[Selected talk](https://www.wehi.edu.au/event/wehi-spatial-technology-symposium/) at WEHI Spatial Technology Symposium, Melbourne, June 2025.
+
+[From biology to statistics, and back](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/RMIT_guestLecture_Apr2025.pdf). Guest lecture at RMIT University, Apr 2025.
 
 [Embracing instability: Assessing stability of variables via StableMate](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/StableMate_PublicHealth.pdf). Breast Cancer Unit & Twin Research Australia, Melbourne School of Population & Global Health, Apr 2025
 
