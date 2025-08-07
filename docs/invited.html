@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -140,6 +169,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Research seminar: <span class="math inline">\(\Phi\)</span>-Space for cell states discovery in single-cell and spatial omics data. Peter Doherty Institute, Jul 2025.</p>
+<p><a href="https://www.birs.ca/events/2025/5-day-workshops/25w5391/videos/watch/202506161420-Mao.html">Invited talk</a> at Workshop: Spatial Omics – Integrating Biotechnologies, Methodologies and Applications, Hangzhou, China, June 2025.</p>
+<p><a href="https://www.wehi.edu.au/event/wehi-spatial-technology-symposium/">Selected talk</a> at WEHI Spatial Technology Symposium, Melbourne, June 2025.</p>
 <p><a href="https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/RMIT_guestLecture_Apr2025.pdf">From biology to statistics, and back</a>. Guest lecture at RMIT University, Apr 2025.</p>
 <p><a href="https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/StableMate_PublicHealth.pdf">Embracing instability: Assessing stability of variables via StableMate</a>. Breast Cancer Unit &amp; Twin Research Australia, Melbourne School of Population &amp; Global Health, Apr 2025</p>
 <p><a href="https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/PhiSpaceST_MIG_seminar.pdf">PhiSpace ST for spatial biology discovery</a>. Australian BioCommons (online), Mar 2025; Murdoch Children’s Research Institute, March 2025; Melbourne Integtative Genomics Monthly Seminar. Feb 2025</p>
@@ -233,8 +265,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -345,7 +375,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

@@ -13,7 +13,6 @@ about:
       href: https://bsky.app/profile/jiadongm.bsky.social
     - text: Email
       href: mailto:chiatungmao@gmail.com
----?
 ---
 
 # Statistics, biology and people
