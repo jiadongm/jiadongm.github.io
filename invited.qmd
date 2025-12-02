@@ -2,6 +2,8 @@
 title: "Talks & posters"
 ---
 
+Invited talk: Integrating ≥3 omics using DIVAS. MIG Symposium 2025.
+
 Research seminar: $\Phi$-Space for cell states discovery in single-cell and spatial omics data. Peter Doherty Institute, Jul 2025.
 
 [Invited talk](https://www.birs.ca/events/2025/5-day-workshops/25w5391/videos/watch/202506161420-Mao.html) at Workshop: Spatial Omics -- Integrating Biotechnologies, Methodologies and Applications, Hangzhou, China, June 2025.

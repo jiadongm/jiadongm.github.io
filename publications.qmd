@@ -2,13 +2,17 @@
 title: "Publications"
 ---
 
+Kuo, M., Lê Cao, K.-A., Kodikara, S., Mao, J., Sankaran, K. (2025). phylobar: an R package for multiresolution compositional barplots in omics studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.05.686662v1.abstract). \[Co-senior author\]
+
+Zhang, X., Mao, J. & Lê Cao, K.-A. (2025). CellDiffusion: a generative model to annotate single-cell and spatial RNA-seq using bulk references. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.27.684671v1.abstract).  \[Co-senior author\]
+
 Kodikara, S., **Mao, J.**, San Valentin, E. M. D., Do, K.-A., Reyes-Gibby, C. & Lê Cao, K.-A. (2025). Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1%7D%7B\emph%7BbioRxiv%7D%7D). \[Co-first author\]
 
 Deng, Y., **Mao, J**., Choi, J. & Lê Cao, K.-A. (2025). NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.27.645629v1). \[Co-senior author\]
 
 **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2025). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
 
-**Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.19.599787v1.full). [Seminar recording](https://mixomics.org/2024/06/phispace/). \[Under review at Genome Biology\]
+**Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03755-8).
 
 Hesse S., **Mao J.**, Hadziahmetovic A., Offensperger F., Rojas Ringeling F., Monteagudo-Mesas P., Frauenstein A., Canzar S., Meissner F., Zimmer R., Lê Cao K.-A., Klein C. (Under Review). A molecular atlas of human granulopoiesis. \[[Under review at Nature Communications](https://www.researchsquare.com/article/rs-6184761/v1)\] [Atlas website](https://granulopoiesis.com/)
 
