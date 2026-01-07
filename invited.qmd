@@ -2,7 +2,7 @@
 title: "Talks & posters"
 ---
 
-Invited talk: Integrating ≥3 omics using DIVAS. MIG Symposium 2025.
+[Invited talk](): Integrating ≥3 omics using DIVAS. MIG Symposium 2025.
 
 Research seminar: $\Phi$-Space for cell states discovery in single-cell and spatial omics data. Peter Doherty Institute, Jul 2025.
 
