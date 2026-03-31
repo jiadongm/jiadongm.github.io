@@ -1,0 +1,10 @@
+---
+title: "How statistical is eugenics? How eugenic is statistics?"
+description: "The entanglement of eugenics and statsitics in the hisotry of science."
+author: "Jiadong Mao"
+date: "2026-03-31"
+categories: [Responsible Science]
+# image: "thumbnail.jpg" # Optional
+---
+
+TBC

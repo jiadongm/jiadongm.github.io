@@ -2,6 +2,8 @@
 title: "Talks & posters"
 ---
 
+Invited talk: Rheumatoid Arthritis Annual Meeting, Brisbane, Feb 2026
+
 [Invited talk](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/JiadongMao_DIVAS_pdf.pdf): Integrating ≥3 omics using DIVAS. MIG Symposium 2025.
 
 Invited talk: $\Phi$-Space for cell states discovery in single-cell and spatial omics data. Peter Doherty Institute, Jul 2025.
