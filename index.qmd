@@ -21,7 +21,7 @@ about:
 
 I'm a statistician working on biomedical problems using statistics and machine learning. At Melbourne Integrative Genomics (MIG), the University of Melbourne, I develop new computational tools to analyse big and complex 'omics' data from biomedical research. 
 
-My current research program has two themes: modelling complex cell states and uncovering dynamics of cell state changes and disease progression. I work on single-cell and spatial omics data, and also longitudinal data (e.g. clinical variables and microbiome) from clinical trials.
+My current research program has two themes: modelling complex cell states and uncovering dynamics of cell state and disease progression. I work on single-cell and spatial omics data, and also longitudinal data from clinical trials.
 
 Curiosity is my top value. Learning new things about biology and statistics excites me. My biggest satisfaction at work comes from helping scientists and clinicians to make sense of their data. In return, they'll have to teach me biology!
 
