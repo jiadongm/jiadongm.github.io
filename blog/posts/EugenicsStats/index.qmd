@@ -38,10 +38,10 @@ But I think it is worth thinking through.
 
 
 
-Eugenics, a term coined by Francis Galton in the 1880s (from the Greek meaning "well-born"), 
+Eugenics, a term coined by Francis Galton in the 1880s (from the Greek meaning 'well-born'), 
 refers to the idea that the human species can and should be improved through selective breeding. 
-In its historical forms, this meant encouraging reproduction among those deemed biologically "superior" (positive eugenics) 
-and discouraging or preventing reproduction among those deemed "inferior" (negative eugenics). 
+In its historical forms, this meant encouraging reproduction among those deemed biologically 'superior' (positive eugenics) 
+and discouraging or preventing reproduction among those deemed 'inferior' (negative eugenics). 
 The movement attracted support from across the political spectrum, left, right and centre, and was not confined to any single country, 
 though it found its most horrifying expression in Nazi Germany's racial policies.
 
@@ -72,8 +72,8 @@ One contemporary pointed out that the average of several right triangles need no
 And the statistician Francis Ysidro Edgeworth would later dub Quetelet's overenthusiastic application of the normal distribution 'Queteletismus': 
 the false doctrine that wherever there is a curve with a single peak, the curve must be Gaussian.
 
-But what interests me most about Quetelet is a particular kind of fallacy that recurs throughout this history. 
-When he examined the heights of French conscripts from a particular region and found a bimodal distribution, he concluded, and another scientist confirmed, 
+But what interests me most about Quetelet's approach is a particular kind of fallacy that recurs throughout the early history of statistics. 
+When a follower of Quetelet examined the heights of French conscripts from a particular region and found a bimodal distribution, he concluded
 that there must be two distinct racial types in that region (the Celts and the Burgundians). 
 It was later shown by the Italian statistician Livi that the bimodality disappeared in later years; 
 it had been an artefact of converting rounded centimetre measurements to rounded inches, 
@@ -120,7 +120,7 @@ He then divided the normal distribution into 14 classes (seven below and seven a
 with a special class X for the most exceptional) and used these quantiles to categorise the population. 
 In Galton's hands, the normal distribution had become a knife for cutting a population into slices.
 
-![Galton's dot diagram from *Hereditary Genius* (1869), representing the heights of one million hypothetical men distributed across his 14-class system.](blog_figs/Galton_dotted.png)
+![Galton's dot diagram from *Hereditary Genius* (1869), representing the heights of one million hypothetical men. Galton used this example to introduce the concept of normal distribution.](blog_figs/Galton_dotted.png)
 
 To validate this scheme, Galton examined the Cambridge Mathematical Tripos, famously one of the most difficult examinations in England,
 and noted that even among the very best students, the range of marks was enormous: the highest scorers achieved over 7,000 marks, 
@@ -224,7 +224,7 @@ hardship, because he believed it was his eugenic duty to reproduce prolifically.
 In his own words: 'We, eugenists, do not dub ourselves knights of a new order, 
 but we are the agents of a new phase of evolution'.
 
-![R.A. Fisher with some of his daughters. Fisher fathered eight children at considerable financial hardship, believing it was his eugenic duty to reproduce prolifically.](blog_figs/RA_Fisher_daughters.jpg)
+![Fisher' daughters and his wife Eileen. Fisher fathered eight children at considerable financial hardship, believing it was his eugenic duty to reproduce prolifically.](blog_figs/RA_Fisher_daughters.jpg)
 
 Fisher's central work on eugenics is *The Genetical Theory of Natural Selection* (1930), 
 which is also the book that founded population genetics. If you look at the table of contents, 
@@ -358,7 +358,7 @@ doing the work, and whether the transition from description to prescription is j
 the evidence or smuggled in by the framework.
 
 Knowing the history will not, by itself, prevent us from making similar mistakes. 
-But not knowing it makes it easier to imagine that we already have.
+But not knowing the history makes it easier to imagine that we are immune to these mistakes.
 
 ---
 
