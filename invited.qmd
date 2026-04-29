@@ -1,6 +1,14 @@
 ---
-title: "Talks & posters"
+title: "Talks & workshops"
 ---
+
+[Seminar](https://events.unimelb.edu.au/MIG/event/52380-mig-special-seminar-dr-jiadong-mao-university-of): From phenotypes to molecular drivers: finding cell states and mechanistic insights in omics data. Melbourne, June 2026
+
+[Workshop](https://events.unimelb.edu.au/safes/event/51256-mig-workshop-advanced-methods-for-scrna-seq-data): MIG Workshop: Advanced methods for scRNA-seq data. Melbourne, May 2026.
+
+Invited talk: DIVAS: finding shared and individual variation in multimodal data. ANU (online), May 2026
+
+[Workshop](https://github.com/jiadongm/EBNMF-workshop): Empirical Bayes Matrix Factorisation. Melbourne, March 2026
 
 Invited talk: Rheumatoid Arthritis Annual Meeting, Brisbane, Feb 2026
 

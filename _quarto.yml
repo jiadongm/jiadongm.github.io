@@ -10,6 +10,8 @@ website:
         text: "Home"
       - href: publications.qmd
         text: "Publications"
+      - href: funded-projects.qmd
+        text: "Funded projects"
       - text: "Talks"
         href: invited.qmd
       - text: "Random thoughts"
@@ -22,4 +24,3 @@ format:
     toc: true
 
 editor: visual
-

@@ -1,0 +1,13 @@
+---
+title: "Funded Projects"
+---
+
+Selected funded research projects where I contribute statistical expertise and computational method development to collaborative biomedical research. 
+
+## Finding the missing causes of early-onset breast cancer
+
+This Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained by currently known genetic, lifestyle and reproductive factors. The project brings together family studies, linked population health data, genomics, epigenomics and proteomics to identify molecular mechanisms, early-life risk factors and improved risk prediction models for early-onset breast cancer. As an Associate Investigator, I contribute expertise in multiomics integration, with a focus on integrating multiple molecular data types and developing robust analysis strategies for discovering disease mechanisms and risk markers.
+
+## Mapping the spatio-temporal metabolic atlas of aging and obesity
+
+This KU Leuven—Melbourne Joint PhD Program supports 2 PhD students (for 4 years maximum) on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, my contribution is on the Melbourne supervision team, where I help guide the statistical and computational side of the project, particularly methods for analysing spatial and single-cell omics data and for modelling complex cell states and their dynamics across biological contexts.
