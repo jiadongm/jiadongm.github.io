@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Jiadong Mao">
+<meta name="dcterms.date" content="2026-06-05">
+<meta name="description" content="The bell curve travelled from gambling tables to human traits to social policy. We attempt to revisit some milestones on that journey, ending with Jordan Peterson (not to say that he’s statistically important, or a milestone).">
+
+<title>The normal curve and ‘moral statistics’: is statistics ideology-free?</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="index_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap-138a6193a3bd40baf1e627da441a4734.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#a-curve-you-already-know" id="toc-a-curve-you-already-know" class="nav-link active" data-scroll-target="#a-curve-you-already-know">A curve you already know</a></li>
+  <li><a href="#born-at-the-gaming-table" id="toc-born-at-the-gaming-table" class="nav-link" data-scroll-target="#born-at-the-gaming-table">Born at the gaming table</a></li>
+  <li><a href="#how-pi-got-into-the-bell-curve" id="toc-how-pi-got-into-the-bell-curve" class="nav-link" data-scroll-target="#how-pi-got-into-the-bell-curve">How <span class="math inline">\(\pi\)</span> got into the bell curve</a></li>
+  <li><a href="#the-unexpected-entry-of-god-into-the-scene" id="toc-the-unexpected-entry-of-god-into-the-scene" class="nav-link" data-scroll-target="#the-unexpected-entry-of-god-into-the-scene">The unexpected entry of God into the scene</a></li>
+  <li><a href="#from-error-theory-to-human-traits-quetelet-and-the-average-man" id="toc-from-error-theory-to-human-traits-quetelet-and-the-average-man" class="nav-link" data-scroll-target="#from-error-theory-to-human-traits-quetelet-and-the-average-man">From error theory to human traits: Quetelet and the ‘average man’</a></li>
+  <li><a href="#galton-from-the-mean-to-the-tails" id="toc-galton-from-the-mean-to-the-tails" class="nav-link" data-scroll-target="#galton-from-the-mean-to-the-tails">Galton: from the mean to the tails</a></li>
+  <li><a href="#modern-echo-the-lobster-professor" id="toc-modern-echo-the-lobster-professor" class="nav-link" data-scroll-target="#modern-echo-the-lobster-professor">Modern echo: the lobster professor</a></li>
+  <li><a href="#is-statistics-ideology-free" id="toc-is-statistics-ideology-free" class="nav-link" data-scroll-target="#is-statistics-ideology-free">Is statistics ideology-free?</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">The normal curve and ‘moral statistics’: is statistics ideology-free?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">responsible science</div>
+    <div class="quarto-category">history of statistics</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    The bell curve travelled from gambling tables to human traits to social policy. We attempt to revisit some milestones on that journey, ending with Jordan Peterson (not to say that he’s statistically important, or a milestone).
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jiadong Mao </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">5 June 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<hr>
+<p>This essay is based on a guest lecture I gave to Year 1 biomedicine students in <em>Mathematics &amp; Statistics for Biomedicine</em> at the University of Melbourne.</p>
+<p>Parts of it are from my earlier talk on statistics and eugenics.</p>
+<p>I walked into the wrong room and gave 5-min lectures on statistics and ideology to a class of Complex Analysis students. Perhaps because it was an interesting topic, they didn’t really interrupt me, until I realised that another lecturer was waiting outside the lecture room.</p>
+<p>I used Claude Opus 4.6 to support the making of this blog post (yes 4.6 is still many people’s favourite model despite the newer 4.7 and 4.8). You can see that from the elevated frequency of en dashes even though I’ve removed some. We don’t use em dashes in this part of the world.</p>
+<hr>
+<section id="a-curve-you-already-know" class="level2">
+<h2 class="anchored" data-anchor-id="a-curve-you-already-know">A curve you already know</h2>
+<p>If you have taken an introductory statistics course, you have met the bell curve. You perhaps know it through the Central Limit Theorem: the sum of many small, independent effects is approximately normally distributed, regardless of the shape of the individual effects. The curve is bell-shaped, symmetric, and completely described by two parameters — the mean <span class="math inline">\(\mu\)</span> and the standard deviation <span class="math inline">\(\sigma\)</span>.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-normal-density" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-normal-density-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-normal-density-1.png" class="img-fluid figure-img" width="1050">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-normal-density-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: The standard normal density.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Here asks two questions about that curve. First: where did it come from? Second: where did the adjective <em>normal</em> come from? They turn out not to be the same story. The curve was born in the mathematics of gambling. The word <em>normal</em> arrived later, when the curve was applied to people — their bodies, their behaviour, their supposed worth. The mathematical history and the moral history are braided together.</p>
+<p>A good place to start is the Galton board (quincunx). A ball drops through rows of pins. At each pin it goes left or right with equal probability. After <span class="math inline">\(n\)</span> rows, its position is the sum of <span class="math inline">\(n\)</span> binary outcomes — exactly the setting of the Central Limit Theorem. Watch many balls pile up, and the bins fill in a bell shape. This is the binomial distribution <span class="math inline">\((1/2 + 1/2)^n\)</span> becoming normal.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/GaltonBoard.png" class="img-fluid figure-img" style="width:45.0%"></p>
+<figcaption>Galton’s quincunx (1873).</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/GaltonBoardSim.gif" class="img-fluid figure-img" style="width:75.0%"></p>
+<figcaption>Simulated cascade — 200 balls, 14 rows.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>The Galton board is a physical model of the CLT. But as we shall see, Galton’s interest in the normal curve was not purely mathematical.</p>
+</section>
+<section id="born-at-the-gaming-table" class="level2">
+<h2 class="anchored" data-anchor-id="born-at-the-gaming-table">Born at the gaming table</h2>
+<p>Probability as a mathematical discipline was born at the gaming table. In the seventeenth century, Cardano, Pascal, and Fermat worked out the mathematics of dice and card games. Huygens published the first printed treatise on probability in 1657. Jacques Bernoulli, Montmort, and Abraham De Moivre followed.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/DeMoivre_portrait.jpg" class="img-fluid figure-img" style="width:45.0%"></p>
+<figcaption>Abraham de Moivre (1736 portrait). Wikimedia Commons, public domain.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/DoctrineOfChances_1718.gif" class="img-fluid figure-img" style="width:45.0%"></p>
+<figcaption>Title page of <em>The Doctrine of Chances</em> (1718). Wikimedia Commons, public domain.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>De Moivre (1667–1754) is the central figure here. A French Huguenot (i.e.&nbsp;a protestant living in Catholic France), he fled to London after the revocation of the Edict of Nantes and spent his career as a private tutor and consultant, earning his living by solving gambling problems for wealthy clients. His <em>Doctrine of Chances</em> (1718) was, in effect, a gambler’s manual.</p>
+<p>Many gambling questions reduce to repeated yes/no trials. Ten dice rolls — how many sixes? Twenty coin flips — how many heads? The probabilities come from the binomial expansion:</p>
+<p><span class="math display">\[(p + q)^n = \sum_{k=0}^{n} \binom{n}{k} p^k q^{\,n-k}\]</span></p>
+<p>where term <span class="math inline">\(k\)</span> gives the probability of exactly <span class="math inline">\(k\)</span> successes. For small <span class="math inline">\(n\)</span> this is easy enough. But for large <span class="math inline">\(n\)</span>, the factorials in <span class="math inline">\(\binom{n}{k} = \frac{n!}{k!(n-k)!}\)</span> become intractable — even though the <em>shape</em> of the bar chart stabilises into a familiar bell.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-binomial-panels" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-binomial-panels-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-binomial-panels-1.png" class="img-fluid figure-img" width="1500">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-binomial-panels-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Binomial probabilities converge to a bell as <span class="math inline">\(n\)</span> grows.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>On 12 November 1733, De Moivre circulated a seven-page Latin pamphlet, <em>Approximatio ad Summam Terminorum Binomii</em>, in his own words ‘communicated to some Friends, but never yet made public’. Only two copies are known to survive, thanks to Karl Pearson’s later rediscovery. The pamphlet contained the first formula for the normal curve: a smooth approximation to those intractable binomial terms.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/Approximatio.jpg" class="img-fluid figure-img" style="width:35.0%"></p>
+<figcaption>Title page of <em>Approximatio</em> (1733).</figcaption>
+</figure>
+</div>
+<p>As the historian Helen Walker observed, the treatise was ‘supposed by its author to have no practical implications outside the realm of games of chance’. De Moivre saw the normal curve as a computational shortcut for gamblers, nothing more.</p>
+</section>
+<section id="how-pi-got-into-the-bell-curve" class="level2">
+<h2 class="anchored" data-anchor-id="how-pi-got-into-the-bell-curve">How <span class="math inline">\(\pi\)</span> got into the bell curve</h2>
+<p>De Moivre’s approximation required computing factorials of large numbers. He found that</p>
+<p><span class="math display">\[n! \;\approx\; n^{\,n+1/2}\, e^{-n}\, B\]</span></p>
+<p>but could only determine the constant <span class="math inline">\(B\)</span> numerically. It was his colleague James Stirling who worked out the answer. In De Moivre’s own words, ‘my worthy Friend Mr.&nbsp;James Stirling … found that the Quantity <span class="math inline">\(B\)</span> denote the Square-root of the Circumference of a Circle whose Radius is Unity’ — that is, <span class="math inline">\(B = \sqrt{2\pi}\)</span>.</p>
+<p>This gives what we now call <strong>Stirling’s formula</strong>: <span class="math inline">\(n! \approx \sqrt{2\pi n}\,(n/e)^n\)</span>. Applied to the three factorials in each binomial term, it produces</p>
+<p><span class="math display">\[\binom{n}{k} p^k q^{\,n-k} \;\approx\; \frac{1}{\sqrt{2\pi npq}}\; \exp\!\left(-\frac{(k - np)^2}{2npq}\right)\]</span></p>
+<p>which is the normal density with mean <span class="math inline">\(\mu = np\)</span> and variance <span class="math inline">\(\sigma^2 = npq\)</span>. That is how <span class="math inline">\(\pi\)</span> ended up inside the bell curve. It entered through the back door of factorial approximation.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-binomial-normal-overlay" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-binomial-normal-overlay-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-binomial-normal-overlay-1.png" class="img-fluid figure-img" width="1050">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-binomial-normal-overlay-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Binomial bars (<span class="math inline">\(n = 50\)</span>, <span class="math inline">\(p = 0.5\)</span>) with the normal approximation overlaid.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="the-unexpected-entry-of-god-into-the-scene" class="level2">
+<h2 class="anchored" data-anchor-id="the-unexpected-entry-of-god-into-the-scene">The unexpected entry of God into the scene</h2>
+<p>De Moivre did not stop at computation. In the third edition of <em>The Doctrine of Chances</em> (1738), he added a theological coda:</p>
+<blockquote class="blockquote">
+<p>‘Although Chance produces irregularities, still the Odds will be infinitely great, that in process of Time, those Irregularities will bear no proportion to the recurrency of that Order which naturally results from Original Design’.</p>
+</blockquote>
+<p>The normal law, for De Moivre, was not just a mathematical convenience. It was evidence of divine order — the regularity that emerges from many random events was proof of an ‘Original Design’ behind the universe. Statistics became natural theology.</p>
+<p>Karl Pearson, looking back nearly two centuries later, put it sharply. The causes that led De Moivre to his <em>Approximatio</em>, Pearson wrote, ‘were more theological and sociological than purely mathematical … post-Newtonian English mathematicians were more influenced by Newton’s theology than by his mathematics’. Pearson thinks the natural theology interpretation of science was really encouraged by none other than Sir Issac Newton himself.</p>
+<p>Whether or not Pearson’s diagnosis is fair, my point stands: the normal curve was never a neutral piece of mathematics, even in the hands of its discoverer. De Moivre may have wanted to transcend the gambling tables that paid his bills, and theology was the most elevated discourse available to him. But the instinct to read moral or metaphysical meaning into a mathematical pattern was present from the very beginning.</p>
+</section>
+<section id="from-error-theory-to-human-traits-quetelet-and-the-average-man" class="level2">
+<h2 class="anchored" data-anchor-id="from-error-theory-to-human-traits-quetelet-and-the-average-man">From error theory to human traits: Quetelet and the ‘average man’</h2>
+<p>For roughly a century after De Moivre, the normal curve lived in two domains: the mathematics of gambling and the astronomy of measurement error. Astronomers like Gauss and Laplace used it to handle the fact that repeated observations of the same star’s position never quite agreed: the errors scattered symmetrically around the true value, piling up near zero, thinning out in the tails. The curve described how imperfect instruments deviated from a fixed truth.</p>
+<p>Then Adolphe Quetelet (1796–1874) made the move that changed everything: he took the curve out of the observatory and applied it to people.</p>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/Laplace.jpg" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>Pierre-Simon Laplace.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/Fourier.jpg" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>Joseph Fourier.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/BrusselsObservatory.png" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>The old Brussels Observatory.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>Quetelet was a Belgian astronomer who had studied under Laplace and Fourier in Paris in 1823, learning error theory from the people who had built it. He then directed the Brussels Observatory. But his ambitions extended far beyond the stars. He wanted to create a <em>physique sociale</em>, a social physics, that would bring the same mathematical precision to the study of human populations that astronomy had brought to celestial mechanics.</p>
+<p>In his 1835 treatise <em>Sur l’homme et le développement de ses facultés</em>, Quetelet proposed the concept of <em>l’homme moyen</em> — the ‘average man’. He collected data on heights, chest sizes, birth rates, and marriage rates, fitted normal curves to them, and declared that the mean of a population represented its ideal. Deviations from the mean were ‘errors of nature’, analogous to the observational errors that astronomers corrected for.</p>
+<p>Quetelet did not stop at heights and chest sizes. He also fitted normal curves to what he called ‘moral qualities’: rates of crime, suicide, marriage, drunkenness, and insanity. And in the regularity of these rates, he found something both fascinating and disturbing.</p>
+<blockquote class="blockquote">
+<p>‘We might enumerate in advance how many individuals will stain their hands in the blood of their fellows, how many will be forgers, how many will be poisoners … There is a budget which we pay with a frightful regularity; it is that of prisons, chains and the scaffold’.</p>
+<p>— Quetelet, <em>Recherches sur le penchant au crime aux différens âges</em> (1831)</p>
+</blockquote>
+<p>The way Quetelet formulates homicide rates sounds quite against free will. This earned Quetelet the label of <em>materialist</em> from some of his contemporaries.</p>
+<section id="quetelismus-normalising-everything" class="level3">
+<h3 class="anchored" data-anchor-id="quetelismus-normalising-everything">Quetelismus: normalising everything</h3>
+<p>Quetelet and his followers assumed that any homogeneous population would produce a normal distribution. When the data did not fit into a single normal curve, they inferred that there were yet-to-identify subpopulations.</p>
+<p>The most revealing episode involved French military conscripts. Adolphe Bertillon examined the heights of conscripts from the Doubs region in 1876 and found a bimodal distribution, i.e.&nbsp;two peaks instead of one. His conclusion: there must be two distinct racial types in Doubs (which he conjectured to be the Celts and the Burgundians). But twenty years later, the Italian statistician Ridolfo Livi showed that the bimodality vanished in later years. It turns out that Bertillon had converted measurements from rounded centimetres to rounded inches, and the systematic rounding error had created two artificial peaks. The two ‘races’ were a unit-conversion artefact.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/BertillonBimodal.png" class="img-fluid figure-img" style="width:55.0%"></p>
+<figcaption>Heights of French conscripts from the Doubs region, showing a spurious bimodal distribution. The apparent bimodality was a rounding artefact, not evidence of two racial types. (Source: Stigler, 1986).</figcaption>
+</figure>
+</div>
+<p>The statistician Francis Ysidro Edgeworth later coined the term <strong>Quetelismus</strong> for this fallacy: the false doctrine that wherever there is a single-peaked curve, the curve must be Gaussian. The episode is minor in itself, but the underlying pattern recurs throughout hisotyr: fitting a statistical model to data, then treating the model’s features as revelations about nature. Simply because the data are well described by a model does not mean the model reveals something fundamental. This seems obvious when stated like this, yet the temptation to make that leap proved remarkably persistent among some very capable thinkers.</p>
+</section>
+</section>
+<section id="galton-from-the-mean-to-the-tails" class="level2">
+<h2 class="anchored" data-anchor-id="galton-from-the-mean-to-the-tails">Galton: from the mean to the tails</h2>
+<p>Francis Galton (1822–1911) was Charles Darwin’s half-cousin, a polymath, explorer, and meteorologist. He coined the word <em>eugenics</em> (from the Greek for ‘well-born’) in 1883 and founded the Galton Laboratory at University College London.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="blog_figs/Francis_Galton_1850s.jpg" class="img-fluid figure-img" style="width:30.0%"></p>
+<figcaption>Francis Galton (1850s).</figcaption>
+</figure>
+</div>
+<p>Galton encountered Quetelet’s work in the 1860s and took from it the idea that the normal curve could be applied to human variation. But he inverted Quetelet’s emphasis completely. Quetelet had celebrated the mean; Galton was interested in the <strong>deviation</strong>. For Galton, the average was the <em>mediocre</em>, and the point of studying the normal distribution was to identify the tails: to classify people into grades and find the exceptional.</p>
+<p>In <em>Hereditary Genius</em> (1869), Galton assumed that ‘natural ability’, an unobservable composite of talent and drive, was normally distributed across the English male population. He divided this assumed distribution into 14 classes: <em>a</em> through <em>g</em> below the median, <em>A</em> through <em>G</em> above it, plus <em>X</em> for the most exceptional. ‘Eminence’ was defined as roughly the top 1 in 4,000 men.</p>
+<p>The normal curve had become a ranking machine, a language for ‘above’ and ‘below’. The upper tail — ‘eminent’, ‘gifted’, ‘fit’ — was to be encouraged to breed (positive eugenics). The lower tail — ‘feeble-minded’, ‘defective’, ‘unfit’ — was to be <em>discouraged or prevented</em> from breeding (negative eugenics).</p>
+<p>Galton was explicit about the moral dimensions of the mathematics. In <em>Natural Inheritance</em> (1889), he wrote:</p>
+<blockquote class="blockquote">
+<p>‘mathematicians laboured at the Law of Error for one set of purposes, and we are entering into the fruits of their labours for another’.</p>
+</blockquote>
+<p>And echoing Quetelet’s faith in quantification:</p>
+<blockquote class="blockquote">
+<p>‘Until the phenomena of any branch of knowledge have been submitted to measurement and number it cannot assume the dignity of a science’.</p>
+</blockquote>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-political-tails" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-political-tails-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-political-tails-1.png" class="img-fluid figure-img" width="1200">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-political-tails-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: The same curve, two political tails. The upper and lower extremes acquire policy meaning in Galton’s eugenic framework.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>The mathematics is the same as in any introductory statistics course. The context of its use is not.</p>
+</section>
+<section id="modern-echo-the-lobster-professor" class="level2">
+<h2 class="anchored" data-anchor-id="modern-echo-the-lobster-professor">Modern echo: the lobster professor</h2>
+<p>The ideologisation of statistics is not confined to 18th and 19th centuries. It reappears in contemporary public discourse.</p>
+<p>In a 2018 essay titled <em>The Gender Scandal</em>, the clinical psychologist Jordan Peterson made the following argument:</p>
+<blockquote class="blockquote">
+<p>‘Many choices are made at the extreme, and not the average. … If you draw a random man and a random woman from the population, and you bet that the woman is more aggressive/less agreeable, you’d be correct about 40% of the time. But if you walked into a roomful of people everyone of whom had been selected to be the most aggressive person out of a 100 almost every one of them would be male’.</p>
+</blockquote>
+<p>The argument has three steps:</p>
+<ol type="1">
+<li>Two distributions (men and women on some trait like aggression) have a <strong>small mean shift</strong>.</li>
+<li>They <strong>overlap heavily</strong> — any randomly chosen man and woman are nearly as likely to be on either side.</li>
+<li>But at the <strong>tails</strong>, the small shift is amplified: among the most extreme 1%, almost all are from one group.</li>
+</ol>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-peterson-tails" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-peterson-tails-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-peterson-tails-1.png" class="img-fluid figure-img" width="1200">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-peterson-tails-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Two distributions with a small mean shift. The overlap is large, but the right tail is dominated by one group.
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>The statistical observation is correct: tail probabilities are sensitive to mean shifts in a way that central probabilities are not. But Peterson does not stop at the statistical observation. In the same essay, his reasoning proceeds in four steps:</p>
+<ol type="1">
+<li><strong>Statistical claim about tails</strong>: even small mean differences produce large asymmetries in the extremes.</li>
+<li><strong>Empirical generalisation</strong> (citing a 2018 <em>Science</em> paper): ‘the more egalitarian and wealthier the country, the larger the differences between men and women in temperament and in interest’.</li>
+<li><strong>Causal claim</strong>: biology, not socialisation: ‘the doctrine … that sex differences are only socially constructed is wrong. Get it? Wrong’.</li>
+<li><strong>Policy conclusion</strong>: ‘political doctrines that promote equality of opportunity also drive inequality of outcome’. The specific target was Justin Trudeau’s 2015 decision to appoint a 50%-female cabinet.</li>
+</ol>
+<p>In a 2018 Channel 4 interview with Cathy Newman, Peterson said:</p>
+<blockquote class="blockquote">
+<p>‘The average IQ for a woman and the average IQ for a man is identical. There is some debate about the flatness of the distribution …’.</p>
+</blockquote>
+<p>‘The flatness of the distribution’. That is, the claim that one group has a wider spread, producing more individuals in both tails, is very Galtonian language. It is the same framework: a normal distribution applied to a human trait, with the tails carrying the argumentative weight.</p>
+<p>The move from ‘the data can be described by two overlapping normal curves’ to ‘therefore this policy is wrong’ requires assumptions at every step, about what the distributions represent, about why they differ, about whether the difference is biological or social, about what follows for policy.</p>
+</section>
+<section id="is-statistics-ideology-free" class="level2">
+<h2 class="anchored" data-anchor-id="is-statistics-ideology-free">Is statistics ideology-free?</h2>
+<p>The mathematics of the normal curve is abstract and generalisable. The same density function <span class="math inline">\(e^{-x^2/2}\)</span> describes measurement error in a telescope, the outcomes of coin flips, the distribution of heights, and the spread of exam marks. The formulas do not change. The Central Limit Theorem does not care what the ‘small independent effects’ are specifically.</p>
+<p>The word <em>normal</em> implies what’s usual and ideal — the <em>ought</em>. The mean can be the ideal (Quetelet’s <em>l’homme moyen</em>) or the mediocre (Galton’s inversion). The tails can be a neutral mathematical fact or a political program. Assumptions, categories, and uses go hand in hand with the tool.</p>
+<p>The curve that De Moivre invented to approximate gambling odds, that Quetelet applied to crime and suicide, that Galton turned into a eugenic ranking machine, and that Peterson deploys to argue against gender-equality policy — it is the same mathematical object throughout. The formulas maybe harmless. But <em>normal</em> is never a morally neutral word when applied to people.</p>
+<hr>
+<p><em>Further reading: Helen M. Walker, Studies in the History of Statistical Method (1929); Ian Hacking, The Taming of Chance (1990); Theodore Porter, The Rise of Statistical Thinking (1986); Stephen Stigler, The History of Statistics (1986); Jordan Peterson, ‘The Gender Scandal: Part One (Scandinavia) and Part Two (Canada)’ (<a href="https://www.jordanbpeterson.com/political-correctness/the-gender-scandal-part-one-scandinavia-and-part-two-canada/">jordanbpeterson.com</a>, 2018).</em></p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
