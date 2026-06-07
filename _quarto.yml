@@ -14,7 +14,7 @@ website:
         text: "Funded projects"
       - text: "Talks"
         href: invited.qmd
-      - text: "Random thoughts"
+      - text: "Birth of a Naturalist"
         href: blog/index.qmd
 
 format:

@@ -1,5 +1,5 @@
 ---
-title: "Rebirth of a naturalist"
+title: "Birth of a naturalist"
 listing:
   contents: posts
   sort: "date desc"
