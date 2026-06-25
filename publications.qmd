@@ -6,7 +6,7 @@ title: "Publications"
 
 Ma, C., **Mao, J.**\*, Lê Cao, K.-A.\* (2026). Multivariate integration of histological images and gene expression data: a comparative review. [bioRxiv](https://doi.org/10.64898/2026.06.02.729734).
 
-**Mao, J.**, Choi, J.\* & Lê Cao, K.-A.\* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. Cell Reports Methods. [[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.05.636735v1); [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)]
+**Mao, J.**, Choi, J.\* & Lê Cao, K.-A.\* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00183-9). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
 
 Deng, Y., **Mao, J.**\*, Choi, J.\* & Lê Cao, K.-A.\* (2026). Scalable cell-specific coexpression networks for granular regulatory pattern discovery with NeighbourNet. [Genome Research](https://genome.cshlp.org/content/early/2026/03/26/gr.281171.125.abstract). \[Co-senior author\]
 
