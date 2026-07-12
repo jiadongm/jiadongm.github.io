@@ -2,6 +2,8 @@
 title: "Talks & workshops"
 ---
 
+[Selected Talk](https://events.unimelb.edu.au/MIG/event/52380-mig-special-seminar-dr-jiadong-mao-university-of): I’m (not) just a statistician: Working in multidisciplinary research as an ECR. Melbourne & Brisbane, July 2026
+
 [Seminar](https://events.unimelb.edu.au/MIG/event/52380-mig-special-seminar-dr-jiadong-mao-university-of): From phenotypes to molecular drivers: finding cell states and mechanistic insights in omics data. Melbourne, June 2026
 
 [Workshop](https://events.unimelb.edu.au/safes/event/51256-mig-workshop-advanced-methods-for-scrna-seq-data): MIG Workshop: Advanced methods for scRNA-seq data. Melbourne, May 2026
