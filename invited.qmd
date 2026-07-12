@@ -2,7 +2,7 @@
 title: "Talks & workshops"
 ---
 
-[Selected Talk](https://events.unimelb.edu.au/MIG/event/52380-mig-special-seminar-dr-jiadong-mao-university-of): I’m (not) just a statistician: Working in multidisciplinary research as an ECR. Melbourne & Brisbane, July 2026
+[Selected Talk](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/Mao_StatsLeadership.pdf): I’m (not) just a statistician: Working in multidisciplinary research as an ECR. Melbourne & Brisbane, July 2026
 
 [Seminar](https://events.unimelb.edu.au/MIG/event/52380-mig-special-seminar-dr-jiadong-mao-university-of): From phenotypes to molecular drivers: finding cell states and mechanistic insights in omics data. Melbourne, June 2026
 
