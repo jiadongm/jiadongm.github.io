@@ -1,0 +1,55 @@
+---
+title: "Software"
+---
+
+We develop computational tools for single-cell, spatial, and multi-omics data analysis. This page collects lab software, packages, analysis code, and related publications.
+
+## Φ-Space
+
+Continuous phenotyping of single-cell multi-omics data.
+
+- Related paper: **Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. *Genome Biology*.
+- Software link: Placeholder.
+
+---
+
+## Φ-Space ST
+
+A platform-agnostic method to identify cell states in spatial transcriptomics studies.
+
+- Related paper: **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2026). Φ-Space ST. *Cell Reports Methods*.
+- Seminar recording: <https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/>
+- Software link: Placeholder.
+
+---
+
+## NeighbourNet
+
+Scalable cell-specific coexpression networks for granular regulatory pattern discovery.
+
+- Related paper: Deng, Y., **Mao, J.**, Choi, J. & Lê Cao, K.-A. (2026). *Genome Research*.
+- Software link: Placeholder.
+
+---
+
+## phylobar
+
+An R package for multiresolution compositional barplots in omics studies.
+
+- Related paper: Kuo, M., Lê Cao, K.-A., Kodikara, S., **Mao, J.**, Sankaran, K. (2025). *Bioinformatics*.
+- Software link: Placeholder.
+
+---
+
+## CellDiffusion
+
+A generative model to annotate single-cell and spatial RNA-seq using bulk references.
+
+- Related paper: Zhang, X., **Mao, J.** & Lê Cao, K.-A. (2025). *bioRxiv*.
+- Software link: Placeholder.
+
+---
+
+## Other Analysis Code
+
+Placeholder: add links for StableMate, DIVAS, workshop repositories, analysis code for publications, and lab GitHub repositories.

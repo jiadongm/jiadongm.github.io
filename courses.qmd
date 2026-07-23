@@ -1,0 +1,24 @@
+---
+title: "Courses"
+---
+
+This page collects teaching, workshops, and training material from the lab.
+
+## Workshops and Short Courses
+
+- [MIG Workshop: Advanced methods for scRNA-seq data](https://events.unimelb.edu.au/safes/event/51256-mig-workshop-advanced-methods-for-scrna-seq-data). Melbourne, May 2026.
+- [Empirical Bayes Matrix Factorisation](https://github.com/jiadongm/EBNMF-workshop). Melbourne, March 2026.
+- [Generative deep learning models for scRNA-seq data analysis](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/GenAI_scRNA-seq_4Dec_AMSI_BIS.pdf). AMSI BioInfoSummer, Melbourne, December 2024.
+
+## Guest Lectures
+
+- [From biology to statistics, and back](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/RMIT_guestLecture_Apr2025.pdf). RMIT University, April 2025.
+- [The normal curve and moral statistics](blog/posts/NormalCurve/). Guest lecture for *Mathematics & Statistics for Biomedicine*, University of Melbourne, 2026.
+
+## Formal Courses
+
+Placeholder: add formal course teaching, including course code, course name, institution, semester, and years taught.
+
+## Additional Talks and Slides
+
+Selected talks and workshops are archived on the [Talks & workshops](invited.qmd) page.

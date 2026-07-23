@@ -1,29 +1,48 @@
 ---
-title: "Jiadong Mao"
-image: media/newUpperBody.jpg
+title: "Jiadong Mao Lab"
 toc: false
-about: 
-  template: trestles
-  image-width: 15em
-  image-shape: round
-  links: 
-    - text: LinkedIn
-      href: https://github.com/jiadongm 
-    - text: GitHub
-      href: https://github.com/jiadongm 
-    - text: BlueSky
-      href: https://bsky.app/profile/jiadongm.bsky.social
-    - text: Email
-      href: mailto:chiatungmao@gmail.com
 ---
 
-# Statistics, biology and people
+::: {.lab-hero}
+![](media/mao-lab-logo_blue-8.png){fig-alt="Jiadong Mao Lab logo" .lab-logo}
 
-I'm a statistician working on biomedical problems using statistics and machine learning. At Melbourne Integrative Genomics (MIG), the University of Melbourne, I develop new computational tools to analyse big and complex 'omics' data from biomedical research.
+# Statistics, Biology, and People
 
-My current research program has two themes: modelling complex cell states and uncovering dynamics of cell state and disease progression. I work on single-cell and spatial omics data, and also longitudinal data from clinical trials.
+The Jiadong Mao Lab develops statistical methods, machine learning approaches, and computational tools for biomedical discovery. We are based at Melbourne Integrative Genomics (MIG), the University of Melbourne, and work closely with scientists and clinicians to analyse large, complex 'omics data.
+:::
 
-Curiosity is my top value. Learning new things about biology and statistics excites me. My biggest satisfaction at work comes from helping scientists and clinicians to make sense of their data. In return, they'll have to teach me biology!
+Our current research program has two connected themes: modelling complex cell states, and uncovering the dynamics of cell state and disease progression. We work on single-cell and spatial omics data, multi-omics integration, and longitudinal data from clinical trials.
 
-I spend most of spare time parenting, playing violin with my daughter and reading about intellectual history (including history of science). My current 'reading project' is about early history of statistics, genetics and eugenics.
+## Research Themes
 
+::: {.theme-grid}
+::: {.theme-card}
+### Complex Cell States
+
+Statistical and computational methods for representing continuous, heterogeneous, and context-dependent cell states in single-cell and spatial omics studies.
+:::
+
+::: {.theme-card}
+### Disease Dynamics
+
+Models for understanding how cell states change across disease progression, treatment response, ageing, obesity, and other biological contexts.
+:::
+
+::: {.theme-card}
+### Multi-omics Integration
+
+Methods for connecting molecular, spatial, histological, and clinical data so that biomedical questions are addressed at the right biological scale.
+:::
+:::
+
+## Joining the Lab
+
+We are interested in working with students, postdocs, clinicians, and scientists who enjoy interdisciplinary research. If you are curious about statistics, biology, machine learning, single-cell or spatial omics, please get in touch.
+
+## News
+
+- Placeholder: add recent papers, grants, talks, student milestones, software releases, and recruitment notes.
+
+## Birth of a Naturalist
+
+The lab website also keeps Jiadong's essay series, [Birth of a Naturalist](blog/index.qmd), on the history of science, statistics, biology, and responsible scientific practice.

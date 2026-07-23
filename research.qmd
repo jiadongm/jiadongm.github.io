@@ -1,0 +1,50 @@
+---
+title: "Research"
+---
+
+The Jiadong Mao Lab develops statistical methods and computational tools for analysing biomedical data. Our work is motivated by biological and clinical questions, especially where data are high-dimensional, spatially organised, longitudinal, or measured across multiple molecular layers.
+
+## Modelling Complex Cell States
+
+Many biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.
+
+Representative work:
+
+- **Φ-Space**: continuous phenotyping of single-cell multi-omics data.
+- **Φ-Space ST**: a platform-agnostic method to identify cell states in spatial transcriptomics studies.
+
+## Dynamics of Disease Progression
+
+We are interested in how cell states and molecular programs change across disease progression, ageing, obesity, treatment, and clinical outcomes. This includes longitudinal clinical trial data and studies where molecular data are linked to patient-level trajectories.
+
+Placeholder: add specific disease areas, collaborators, and active projects.
+
+## Single-cell and Spatial Omics
+
+Single-cell and spatial technologies create rich views of tissues, but their analysis requires methods that respect both molecular complexity and biological structure. We work on statistical and machine learning methods for cell-state discovery, spatial biology, regulatory patterns, and molecular niche analysis.
+
+Representative work:
+
+- Φ-Space ST for spatial biology discovery.
+- NeighbourNet for scalable cell-specific coexpression networks.
+- Methods for integrating spatial transcriptomics with histology and other molecular data.
+
+## Multi-omics Integration
+
+Biomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.
+
+Representative work:
+
+- Multivariate integration of histological images and gene expression data.
+- CellDiffusion for annotating single-cell and spatial RNA-seq using bulk references.
+- Collaborative projects in cancer, metabolism, oral microbiome, and immune cell biology.
+
+## Funded Projects
+
+### Mapping the spatio-temporal metabolic atlas of aging and obesity
+
+This KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.
+
+### Finding the missing causes of early-onset breast cancer
+
+This Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers.
