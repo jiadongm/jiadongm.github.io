@@ -1,5 +1,6 @@
 ---
 title: "Software"
+toc: false
 ---
 
 We develop computational tools for single-cell, spatial, and multi-omics data analysis. This page collects lab software, packages, analysis code, and related publications.

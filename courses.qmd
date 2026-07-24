@@ -1,5 +1,6 @@
 ---
 title: "Courses"
+toc: false
 ---
 
 This page collects teaching, workshops, and training material from the lab.

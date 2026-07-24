@@ -1,5 +1,19 @@
 /* css styles */
 
+@media (min-width: 992px) {
+  body.fullcontent:not(.floating):not(.docked) .page-columns {
+    grid-template-columns:
+      [screen-start] 1.5rem
+      [screen-start-inset] minmax(1rem, 1fr)
+      [page-start page-start-inset body-start-outset body-start] 1.5rem
+      [body-content-start] minmax(0, 1120px)
+      [body-content-end] 1.5rem
+      [body-end body-end-outset page-end-inset page-end] minmax(1rem, 1fr)
+      [screen-end-inset] 1.5rem
+      [screen-end];
+  }
+}
+
 .lab-hero {
   border-bottom: 1px solid #d9e1e6;
   margin-bottom: 2rem;

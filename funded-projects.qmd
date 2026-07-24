@@ -1,5 +1,6 @@
 ---
 title: "Funded Projects"
+toc: false
 ---
 
 Selected funded research projects where I contribute statistical expertise and computational method development to collaborative biomedical research. 
@@ -11,5 +12,3 @@ This KU Leuven—Melbourne Joint PhD Program supports 2 PhD students (for 4 year
 ## Finding the missing causes of early-onset breast cancer
 
 This Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained by currently known genetic, lifestyle and reproductive factors. The project brings together family studies, linked population health data, genomics, epigenomics and proteomics to identify molecular mechanisms, early-life risk factors and improved risk prediction models for early-onset breast cancer. As an Associate Investigator, I contribute expertise in multiomics integration, with a focus on integrating multiple molecular data types and developing robust analysis strategies for discovering disease mechanisms and risk markers.
-
-

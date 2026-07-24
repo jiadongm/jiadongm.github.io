@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+toc: false
 ---
 
 Names of lab members are shown in **bold**. \* indicates equal contribution.

@@ -1,5 +1,6 @@
 ---
 title: "Talks & workshops"
+toc: false
 ---
 
 [Selected Talk](https://github.com/jiadongm/jiadongm.github.io/blob/main/slides/Mao_StatsLeadership.pdf): I’m (not) just a statistician: Working in multidisciplinary research as an ECR. Melbourne & Brisbane, July 2026

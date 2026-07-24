@@ -1,5 +1,6 @@
 ---
 title: "Research"
+toc: false
 ---
 
 The Jiadong Mao Lab develops statistical methods and computational tools for analysing biomedical data. Our work is motivated by biological and clinical questions, especially where data are high-dimensional, spatially organised, longitudinal, or measured across multiple molecular layers.
