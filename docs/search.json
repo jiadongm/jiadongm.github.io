@@ -214,7 +214,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Melbourne Integrative Genomics\nThe University of Melbourne"
+    "text": "Room G43  Building 184 (Old Microbiology)  The University of Melbourne  Parkville 3010, Victoria"
   },
   {
     "objectID": "contact.html#jiadong-mao-lab",
@@ -228,14 +228,14 @@
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "Contact",
-    "text": "Contact\n\nEmail: chiatungmao@gmail.com\nGitHub: https://github.com/jiadongm\nBlueSky: https://bsky.app/profile/jiadongm.bsky.social\n\nPlaceholder: add University of Melbourne profile, Google Scholar, ORCID, office address, and lab GitHub or group page."
+    "text": "Contact\n\nEmail: jiadong.mao [at] unimelb.edu.au\nPhone (office hours):"
   },
   {
-    "objectID": "contact.html#prospective-students-and-postdocs",
-    "href": "contact.html#prospective-students-and-postdocs",
+    "objectID": "contact.html#prospective-students",
+    "href": "contact.html#prospective-students",
     "title": "Contact",
-    "section": "Prospective Students and Postdocs",
-    "text": "Prospective Students and Postdocs\nIf you are interested in joining the lab, please send a short note describing your background, research interests, and why the lab’s work is a good fit. Students interested in statistics, machine learning, single-cell and spatial omics, multi-omics integration, and biomedical collaboration are especially welcome.\nPlaceholder: add scholarship links, PhD application guidance, honours/master project information, and postdoctoral fellowship notes."
+    "section": "Prospective Students",
+    "text": "Prospective Students\nTBC"
   },
   {
     "objectID": "research.html",
@@ -319,35 +319,28 @@
     "href": "index.html",
     "title": "Jiadong Mao Lab",
     "section": "",
-    "text": "The Jiadong Mao Lab develops statistical methods, machine learning approaches, and computational tools for biomedical discovery. We are based at Melbourne Integrative Genomics (MIG), the University of Melbourne, and work closely with scientists and clinicians to analyse large, complex ’omics data.\nOur current research program has two connected themes: modelling complex cell states, and uncovering the dynamics of cell state and disease progression. We work on single-cell and spatial omics data, multi-omics integration, and longitudinal data from clinical trials."
+    "text": "I’m Jiadong Mao, Lecturer of Statistics for Omics at School of Mathematics and Statistics, University of Melbourne. Based at Melbourne Integrative Genomics (MIG), my group work closely with scientists and clinicians to analyse large, complex omics data.\nAt Mao lab we solve biological problems statistically. Our collaborators range from medical specialists such as oncologists, rheumatologists and haematologists, to biologists such as immunologists, microbiologists and veterinary scientists. We talk to biologists regularly to understand what scientific problems they tackle, what types of data they collect and what data analysis challenges they face. Based on this understanding we then develop statistical and machine learning approaches for solving common analytical problems the community is facing."
   },
   {
-    "objectID": "index.html#research-themes",
-    "href": "index.html#research-themes",
+    "objectID": "index.html#our-research",
+    "href": "index.html#our-research",
     "title": "Jiadong Mao Lab",
-    "section": "Research Themes",
-    "text": "Research Themes\n\n\nComplex Cell States\nStatistical and computational methods for representing continuous, heterogeneous, and context-dependent cell states in single-cell and spatial omics studies.\n\n\nDisease Dynamics\nModels for understanding how cell states change across disease progression, treatment response, ageing, obesity, and other biological contexts.\n\n\nMulti-omics Integration\nMethods for connecting molecular, spatial, histological, and clinical data so that biomedical questions are addressed at the right biological scale."
+    "section": "Our Research",
+    "text": "Our Research\nA few broad research themes are described below. Read the Research page for detailed descriptions of specific research topics.\n\n\nComplex cell states\nCharacterising continuous, heterogeneous and context-dependent cell states in single-cell and spatial omics studies.\n\n\nGene regulation and disease dynamics\nUnderstanding how cell states change across disease progression, treatment response, ageing, obesity and other biological contexts.\n\n\nMultiomics integration\nConnecting molecular, spatial, histological and clinical data so that biological questions are addressed at the right scale."
   },
   {
     "objectID": "index.html#joining-the-lab",
     "href": "index.html#joining-the-lab",
     "title": "Jiadong Mao Lab",
     "section": "Joining the Lab",
-    "text": "Joining the Lab\nWe are interested in working with students, postdocs, clinicians, and scientists who enjoy interdisciplinary research. If you are curious about statistics, biology, machine learning, single-cell or spatial omics, please get in touch."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Jiadong Mao Lab",
-    "section": "News",
-    "text": "News\n\nPlaceholder: add recent papers, grants, talks, student milestones, software releases, and recruitment notes."
+    "text": "Joining the Lab\nGet in touch if you are interested in joining the lab for\n\nPhD\nMaster projects (e.g. Maths & Stats, Data Science, Master of Bioinformatics)\nVacation scholarship\nResearch internship (currently enrolled students only)\nAcademic visits"
   },
   {
     "objectID": "index.html#birth-of-a-naturalist",
     "href": "index.html#birth-of-a-naturalist",
     "title": "Jiadong Mao Lab",
     "section": "Birth of a Naturalist",
-    "text": "Birth of a Naturalist\nThe lab website also keeps Jiadong’s essay series, Birth of a Naturalist, on the history of science, statistics, biology, and responsible scientific practice."
+    "text": "Birth of a Naturalist\nRead our blog Birth of a Naturalist, on the history of statistics, biology and responsible scientific practice."
   },
   {
     "objectID": "blog/posts/EugenicsStats/index.html",
@@ -452,34 +445,27 @@
     "href": "people.html#current-members",
     "title": "People",
     "section": "Current Members",
-    "text": "Current Members\n\n\n\nJiadong Mao\nJiadong is a statistician working on biomedical problems using statistics and machine learning. At Melbourne Integrative Genomics (MIG), the University of Melbourne, he develops computational tools for analysing large and complex ’omics data from biomedical research.\nCuriosity is his top value. He enjoys learning biology from scientists and clinicians, and helping them make sense of their data in return.\nGitHub | BlueSky | Email"
+    "text": "Current Members\n\n\n\n\nJiadong Mao\nStatistician.\nGitHub | LinkedIn | Email\n\n\n\n\nPhoto pending\n\n\nXiaochen Zhang\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research: .\n\n\n\n\n\nChengyi Ma\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\nYifan Qin\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\nPhoto pending\n\n\nAlejandro Efraín Marín Peralta\nPhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research:.\n\n\n\n\nPhoto pending\n\n\nDi Mu\nPhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .\n\n\n\n\nPhoto pending\n\n\nLauren Ursich\nPhD student, principal supervisor Leigh Walker (Florey Institute). Research:\n\n\n\n\nPhoto pending\n\n\nJonathan Salazar\nMSc Bioinformatics student. Research:\n\n\n\n\nPhoto pending\n\n\nLachlan Rowles\nMSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:"
   },
   {
-    "objectID": "people.html#students-and-researchers",
-    "href": "people.html#students-and-researchers",
+    "objectID": "people.html#research-assistants-and-visitors",
+    "href": "people.html#research-assistants-and-visitors",
     "title": "People",
-    "section": "Students and Researchers",
-    "text": "Students and Researchers\nPlaceholder: add current students, research assistants, postdocs, visitors, and affiliated researchers.\nFor each person, include:\n\nName\nRole\nProject or research area\nStart date\nCo-supervisors or collaborators, where relevant\nPersonal website, GitHub, or email, if public"
+    "section": "Research Assistants and Visitors",
+    "text": "Research Assistants and Visitors\n\n\n\nPhoto pending\n\n\nResearch Assistants\nPlaceholder: add current research assistants, with project areas and dates.\n\n\n\n\nPhoto pending\n\n\nVisitors and Interns\nPlaceholder: add current academic visitors, interns, vacation scholars and affiliated students."
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\nPlaceholder: add former students, visitors, research assistants, and collaborators."
+    "text": "Alumni\n\n\n\nPhoto pending\n\n\nDr Yidi Deng\nCompleted PhD (principal supervisor Kim-Anh Lê Cao), now postdoctoral researcher at Florey Institute.\n\n\n\n\nPhoto pending\n\n\nYinuo Sun\nFormer research assistant; now research assistant at Monash.\n\n\n\n\nPhoto pending\n\n\nHongyu Zhao\nCompleted MSc in Data Science (principal supervisor Kim-Anh Lê Cao).\n\n\n\n\nPhoto pending\n\n\nHongling Liu\nCompleted MSc in Mathematics and Statistics (co-supervisor Aurore Delaigle)."
   },
   {
-    "objectID": "people.html#joining-the-lab",
-    "href": "people.html#joining-the-lab",
-    "title": "People",
-    "section": "Joining the Lab",
-    "text": "Joining the Lab\nWe welcome enquiries from people interested in statistics, machine learning, single-cell and spatial omics, multi-omics integration, and biomedical collaboration. Prospective students and postdocs should include a short description of their research interests and relevant background."
-  },
-  {
-    "objectID": "contact.html#prospective-students",
-    "href": "contact.html#prospective-students",
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
     "title": "Contact",
-    "section": "Prospective Students",
-    "text": "Prospective Students\nTBC"
+    "section": "",
+    "text": "Room G43  Building 184 (Old Microbiology)  The University of Melbourne  Parkville 3010, Victoria"
   }
 ]

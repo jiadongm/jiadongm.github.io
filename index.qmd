@@ -4,45 +4,54 @@ toc: false
 ---
 
 ::: {.lab-hero}
+::: {.hero-media}
 ![](media/mao-lab-logo_blue-8.png){fig-alt="Jiadong Mao Lab logo" .lab-logo}
-
-# Statistics, Biology, and People
-
-The Jiadong Mao Lab develops statistical methods, machine learning approaches, and computational tools for biomedical discovery. We are based at Melbourne Integrative Genomics (MIG), the University of Melbourne, and work closely with scientists and clinicians to analyse large, complex 'omics data.
+![](media/newUpperBody.jpg){fig-alt="Jiadong Mao" .hero-headshot}
 :::
 
-Our current research program has two connected themes: modelling complex cell states, and uncovering the dynamics of cell state and disease progression. We work on single-cell and spatial omics data, multi-omics integration, and longitudinal data from clinical trials.
+# Statistics, Biology and People
 
-## Research Themes
+I'm Jiadong Mao, Lecturer of Statistics for Omics at [School of Mathematics and Statistics](https://ms.unimelb.edu.au/), University of Melbourne. Based at [Melbourne Integrative Genomics (MIG)](https://sites.research.unimelb.edu.au/integrative-genomics), my group work closely with scientists and clinicians to analyse large, complex omics data.
+
+At Mao lab we solve biological problems statistically. Our collaborators range from medical specialists such as oncologists, rheumatologists and haematologists, to biologists such as immunologists, microbiologists and veterinary scientists. We talk to biologists regularly to understand what scientific problems they tackle, what types of data they collect and what data analysis challenges they face. Based on this understanding we then develop statistical and machine learning approaches for solving common analytical problems the community is facing.
+:::
+
+
+## Our Research
+
+A few broad research themes are described below. Read [the Research page](research.qmd) for detailed descriptions of specific research topics.
 
 ::: {.theme-grid}
 ::: {.theme-card}
-### Complex Cell States
+### Complex cell states
 
-Statistical and computational methods for representing continuous, heterogeneous, and context-dependent cell states in single-cell and spatial omics studies.
+Characterising continuous, heterogeneous and context-dependent cell states in single-cell and spatial omics studies.
 :::
 
 ::: {.theme-card}
-### Disease Dynamics
+### Gene regulation and disease dynamics
 
-Models for understanding how cell states change across disease progression, treatment response, ageing, obesity, and other biological contexts.
+Understanding how cell states change across disease progression, treatment response, ageing, obesity and other biological contexts.
 :::
 
 ::: {.theme-card}
-### Multi-omics Integration
+### Multiomics integration
 
-Methods for connecting molecular, spatial, histological, and clinical data so that biomedical questions are addressed at the right biological scale.
+Connecting molecular, spatial, histological and clinical data so that biological questions are addressed at the right scale.
 :::
 :::
 
 ## Joining the Lab
 
-We are interested in working with students, postdocs, clinicians, and scientists who enjoy interdisciplinary research. If you are curious about statistics, biology, machine learning, single-cell or spatial omics, please get in touch.
+[Get in touch](contact.qmd) if you are interested in joining the lab for
 
-## News
+- PhD
+- Master projects (e.g. Maths & Stats, Data Science, Master of Bioinformatics)
+- Vacation scholarship
+- Research internship (currently enrolled students only)
+- Academic visits
 
-- Placeholder: add recent papers, grants, talks, student milestones, software releases, and recruitment notes.
 
 ## Birth of a Naturalist
 
-The lab website also keeps Jiadong's essay series, [Birth of a Naturalist](blog/index.qmd), on the history of science, statistics, biology, and responsible scientific practice.
+Read our blog [Birth of a Naturalist](blog/index.qmd), on the history of statistics, biology and responsible scientific practice.
