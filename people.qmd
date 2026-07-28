@@ -78,14 +78,17 @@ PhD student, principal supervisor Leigh Walker (Florey Institute). Research:
 :::
 
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/JonathanSalazar.jpg){fig-alt="Jonathan Salazar" .person-card-photo}
+
 
 #### Jonathan Salazar
 
 MSc Bioinformatics student. Research:
 :::
+
+
+
+
 
 ::: {.person-card}
 ::: {.person-placeholder}
