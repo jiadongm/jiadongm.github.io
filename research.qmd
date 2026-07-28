@@ -3,44 +3,64 @@ title: "Research"
 toc: false
 ---
 
-The Jiadong Mao Lab develops statistical methods and computational tools for analysing biomedical data. Our work is motivated by biological and clinical questions, especially where data are high-dimensional, spatially organised, longitudinal, or measured across multiple molecular layers.
+Research questions that we are working on.
 
-## Modelling Complex Cell States
+
+## Cell states on a continuum
 
 Many biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.
 
 Representative work:
 
-- **Φ-Space**: continuous phenotyping of single-cell multi-omics data.
-- **Φ-Space ST**: a platform-agnostic method to identify cell states in spatial transcriptomics studies.
+- Φ-Space: continuous phenotyping of single-cell multi-omics data.
+- Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies.
 
-## Dynamics of Disease Progression
+Φ-Space is essentially supervised dimension reduction (thousands of genes --> dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g. doublet deconvolution).  
 
-We are interested in how cell states and molecular programs change across disease progression, ageing, obesity, treatment, and clinical outcomes. This includes longitudinal clinical trial data and studies where molecular data are linked to patient-level trajectories.
 
-Placeholder: add specific disease areas, collaborators, and active projects.
+## What's in a doublet? Doublet deconvolution
 
-## Single-cell and Spatial Omics
+Doublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.
 
-Single-cell and spatial technologies create rich views of tissues, but their analysis requires methods that respect both molecular complexity and biological structure. We work on statistical and machine learning methods for cell-state discovery, spatial biology, regulatory patterns, and molecular niche analysis.
+Φ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing.
+
+
+## What's so special about spatial?
+
+TBC
+
+
+
+
+
+## Harmony in diversity: shared, partially shared and individual variations in multiomics
+
+Biomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. Most multiomics integration tools tell you what factors are shared by different omics layer some also tell you what factors are individual to each omics layer; but they do not tell you what is partially shared. Biologically jointly shared variations are likely to represent biological pathways that involve all omics layers.
+
+However, as we increase the number of omics layers, we do not expect to see many factors that are common to all of them. What is partially shared and what is not shared (individual to omics layers) become more important. 
+
+Collaborating with Prof J S Marron's group at UNC Chapel Hill, we have developed the DIVAS R package, implementing Marron's DIVAS method. DIVAS is a powerful matrix factorisation tool for sort all the signal components in multiomics data into jontly shared, partially shared and individual ones.
 
 Representative work:
 
-- Φ-Space ST for spatial biology discovery.
-- NeighbourNet for scalable cell-specific coexpression networks.
-- Methods for integrating spatial transcriptomics with histology and other molecular data.
+- DIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)
+- Integration of histological images and gene expression data (PhD student Chengyi Ma).
 
-## Multi-omics Integration
+## Gene regulation and causal discovery
 
-Biomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.
+TBC
 
 Representative work:
 
-- Multivariate integration of histological images and gene expression data.
-- CellDiffusion for annotating single-cell and spatial RNA-seq using bulk references.
-- Collaborative projects in cancer, metabolism, oral microbiome, and immune cell biology.
+- NeighbourNet for scalable cell-specific coexpression networks (Yidi Deng).
+- StableMate (Yidi Deng).
 
-## Funded Projects
+
+## Biological collaborations
+
+### Clonal tracing 
+
+TBC
 
 ### Mapping the spatio-temporal metabolic atlas of aging and obesity
 

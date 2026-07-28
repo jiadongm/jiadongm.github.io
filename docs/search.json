@@ -242,14 +242,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "The Jiadong Mao Lab develops statistical methods and computational tools for analysing biomedical data. Our work is motivated by biological and clinical questions, especially where data are high-dimensional, spatially organised, longitudinal, or measured across multiple molecular layers."
+    "text": "Research questions that we are working on."
   },
   {
     "objectID": "research.html#modelling-complex-cell-states",
     "href": "research.html#modelling-complex-cell-states",
     "title": "Research",
-    "section": "Modelling Complex Cell States",
-    "text": "Modelling Complex Cell States\nMany biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.\nRepresentative work:\n\nΦ-Space: continuous phenotyping of single-cell multi-omics data.\nΦ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies."
+    "section": "Modelling complex cell states",
+    "text": "Modelling complex cell states\nMany biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.\nRepresentative work:\n\nΦ-Space: continuous phenotyping of single-cell multi-omics data.\nΦ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies.\n\nΦ-Space is essentially supervised dimension reduction (thousands of genes –&gt; dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g. doublet deconvolution)."
   },
   {
     "objectID": "research.html#dynamics-of-disease-progression",
@@ -270,7 +270,7 @@
     "href": "research.html#multi-omics-integration",
     "title": "Research",
     "section": "Multi-omics Integration",
-    "text": "Multi-omics Integration\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nMultivariate integration of histological images and gene expression data.\nCellDiffusion for annotating single-cell and spatial RNA-seq using bulk references.\nCollaborative projects in cancer, metabolism, oral microbiome, and immune cell biology."
+    "text": "Multi-omics Integration\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma).\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
   },
   {
     "objectID": "research.html#funded-projects",
@@ -438,14 +438,14 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "We are building a group for statistically careful, biologically engaged, and collaborative biomedical data science."
+    "text": "Statistician.\nGitHub | LinkedIn | Email\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research: .\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nResearch assistant. Research:\n\n\n\n\nPhoto pending\n\n\n\nPhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .\n\n\n\n\n\n\n\n\nPhD student, principal supervisor Leigh Walker (Florey Institute). Research:\n\n\n\n\nPhoto pending\n\n\n\nMSc Bioinformatics student. Research:\n\n\n\n\nPhoto pending\n\n\n\nMSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nPhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research: spatial metabolomics, transcriptomics and multiomics integration."
   },
   {
     "objectID": "people.html#current-members",
     "href": "people.html#current-members",
     "title": "People",
     "section": "Current Members",
-    "text": "Current Members\n\n\n\n\nJiadong Mao\nStatistician.\nGitHub | LinkedIn | Email\n\n\n\n\nPhoto pending\n\n\nXiaochen Zhang\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research: .\n\n\n\n\n\nChengyi Ma\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\nYifan Qin\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\nPhoto pending\n\n\nAlejandro Efraín Marín Peralta\nPhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research:.\n\n\n\n\nPhoto pending\n\n\nDi Mu\nPhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .\n\n\n\n\nPhoto pending\n\n\nLauren Ursich\nPhD student, principal supervisor Leigh Walker (Florey Institute). Research:\n\n\n\n\nPhoto pending\n\n\nJonathan Salazar\nMSc Bioinformatics student. Research:\n\n\n\n\nPhoto pending\n\n\nLachlan Rowles\nMSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:"
+    "text": "Current Members\n\n\n\n\nJiadong Mao\nStatistician.\nGitHub | LinkedIn | Email\n\n\n\n\n\nXiaochen Zhang\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research: .\n\n\n\n\nPhoto pending\n\n\nYinuo Sun\nFormer research assistant; now research assistant at Monash.\n\n\n\n\n\nChengyi Ma\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\nYifan Qin\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\nPhoto pending\n\n\nAlejandro Efraín (Efra) Marín Peralta\nPhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research:.\n\n\n\n\nPhoto pending\n\n\nDi Mu\nPhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .\n\n\n\n\n\n\n\nLauren Ursich\nPhD student, principal supervisor Leigh Walker (Florey Institute). Research:\n\n\n\n\nPhoto pending\n\n\nJonathan Salazar\nMSc Bioinformatics student. Research:\n\n\n\n\nPhoto pending\n\n\nLachlan Rowles\nMSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:"
   },
   {
     "objectID": "people.html#research-assistants-and-visitors",
@@ -459,7 +459,7 @@
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n\nPhoto pending\n\n\nDr Yidi Deng\nCompleted PhD (principal supervisor Kim-Anh Lê Cao), now postdoctoral researcher at Florey Institute.\n\n\n\n\nPhoto pending\n\n\nYinuo Sun\nFormer research assistant; now research assistant at Monash.\n\n\n\n\nPhoto pending\n\n\nHongyu Zhao\nCompleted MSc in Data Science (principal supervisor Kim-Anh Lê Cao).\n\n\n\n\nPhoto pending\n\n\nHongling Liu\nCompleted MSc in Mathematics and Statistics (co-supervisor Aurore Delaigle)."
+    "text": "Alumni\n\n\n\n\nDr Yidi Deng\nCompleted PhD (principal supervisor Kim-Anh Lê Cao), now postdoc at Florey Institute.\n\n\n\n\n\nHongyu Zhao\nCompleted MSc in Data Science (principal supervisor Kim-Anh Lê Cao). Now secondary mathematics teacher in China.\n\n\n\n\nPhoto pending\n\n\nHongling Liu\nCompleted MSc in Mathematics and Statistics (co-supervisor Aurore Delaigle)."
   },
   {
     "objectID": "contact.html#address",
@@ -467,5 +467,96 @@
     "title": "Contact",
     "section": "",
     "text": "Room G43  Building 184 (Old Microbiology)  The University of Melbourne  Parkville 3010, Victoria"
+  },
+  {
+    "objectID": "people.html#current-members-in-chronological-order",
+    "href": "people.html#current-members-in-chronological-order",
+    "title": "People",
+    "section": "",
+    "text": "Statistician.\nGitHub | LinkedIn | Email\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research: .\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nPhD student, principal supervisor by Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nResearch assistant. Research:\n\n\n\n\nPhoto pending\n\n\n\nPhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .\n\n\n\n\n\n\n\n\nPhD student, principal supervisor Leigh Walker (Florey Institute). Research:\n\n\n\n\nPhoto pending\n\n\n\nMSc Bioinformatics student. Research:\n\n\n\n\nPhoto pending\n\n\n\nMSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:\n\n\n\n\n\n\nPhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research: spatial metabolomics, transcriptomics and multiomics integration."
+  },
+  {
+    "objectID": "research.html#whats-in-a-doublet",
+    "href": "research.html#whats-in-a-doublet",
+    "title": "Research",
+    "section": "What’s in a doublet?",
+    "text": "What’s in a doublet?\nDoublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.\nΦ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing."
+  },
+  {
+    "objectID": "research.html#whats-so-special-about-spatial",
+    "href": "research.html#whats-so-special-about-spatial",
+    "title": "Research",
+    "section": "What’s so special about spatial?",
+    "text": "What’s so special about spatial?\nTBC"
+  },
+  {
+    "objectID": "research.html#whats-in-a-doublet-doublet-deconvolution",
+    "href": "research.html#whats-in-a-doublet-doublet-deconvolution",
+    "title": "Research",
+    "section": "What’s in a doublet? Doublet deconvolution",
+    "text": "What’s in a doublet? Doublet deconvolution\nDoublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.\nΦ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing."
+  },
+  {
+    "objectID": "research.html#cell-states-on-a-continuum",
+    "href": "research.html#cell-states-on-a-continuum",
+    "title": "Research",
+    "section": "Cell states on a continuum",
+    "text": "Cell states on a continuum\nMany biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.\nRepresentative work:\n\nΦ-Space: continuous phenotyping of single-cell multi-omics data.\nΦ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies.\n\nΦ-Space is essentially supervised dimension reduction (thousands of genes –&gt; dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g. doublet deconvolution)."
+  },
+  {
+    "objectID": "research.html#gene-regulation-and-causal-discovery",
+    "href": "research.html#gene-regulation-and-causal-discovery",
+    "title": "Research",
+    "section": "Gene regulation and causal discovery",
+    "text": "Gene regulation and causal discovery\nTBC\nRepresentative work:\n\nNeighbourNet for scalable cell-specific coexpression networks (Yidi Deng).\nStableMate (Yidi Deng)."
+  },
+  {
+    "objectID": "research.html#whats-not-shared-by-all-omics-layers-comprehensive-matrix-factorisation-for-multiomics-integration",
+    "href": "research.html#whats-not-shared-by-all-omics-layers-comprehensive-matrix-factorisation-for-multiomics-integration",
+    "title": "Research",
+    "section": "What’s not shared by all omics layers? Comprehensive matrix factorisation for multiomics integration",
+    "text": "What’s not shared by all omics layers? Comprehensive matrix factorisation for multiomics integration\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma)."
+  },
+  {
+    "objectID": "research.html#collaborative-projects",
+    "href": "research.html#collaborative-projects",
+    "title": "Research",
+    "section": "Collaborative projects",
+    "text": "Collaborative projects\n\nClonal tracing\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
+  },
+  {
+    "objectID": "research.html#whats-not-shared-by-all-omics-layers-comprehensive-matrix-factorisation",
+    "href": "research.html#whats-not-shared-by-all-omics-layers-comprehensive-matrix-factorisation",
+    "title": "Research",
+    "section": "What’s not shared by all omics layers? Comprehensive matrix factorisation",
+    "text": "What’s not shared by all omics layers? Comprehensive matrix factorisation\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma)."
+  },
+  {
+    "objectID": "research.html#whats-not-shared-between-omics-comprehensive-matrix-factorisation",
+    "href": "research.html#whats-not-shared-between-omics-comprehensive-matrix-factorisation",
+    "title": "Research",
+    "section": "What’s not shared between omics? Comprehensive matrix factorisation",
+    "text": "What’s not shared between omics? Comprehensive matrix factorisation\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma)."
+  },
+  {
+    "objectID": "research.html#harmony-in-diversity-decomposition-multiomics-into-shared-partially-shared-and-individual-variations",
+    "href": "research.html#harmony-in-diversity-decomposition-multiomics-into-shared-partially-shared-and-individual-variations",
+    "title": "Research",
+    "section": "Harmony in diversity: decomposition multiomics into shared, partially shared and individual variations",
+    "text": "Harmony in diversity: decomposition multiomics into shared, partially shared and individual variations\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. We develop analysis strategies for integrating these measurements while preserving interpretable biological signals.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma)."
+  },
+  {
+    "objectID": "research.html#harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics",
+    "href": "research.html#harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics",
+    "title": "Research",
+    "section": "Harmony in diversity: shared, partially shared and individual variations in multiomics",
+    "text": "Harmony in diversity: shared, partially shared and individual variations in multiomics\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. Most multiomics integration tools tell you what factors are shared by different omics layer some also tell you what factors are individual to each omics layer; but they do not tell you what is partially shared. Biologically jointly shared variations are likely to represent biological pathways that involve all omics layers.\nHowever, as we increase the number of omics layers, we do not expect to see many factors that are common to all of them. What is partially shared and what is not shared (individual to omics layers) become more important.\nCollaborating with Prof J S Marron’s group at UNC Chapel Hill, we have developed the DIVAS R package, implementing Marron’s DIVAS method. DIVAS is a powerful matrix factorisation tool for sort all the signal components in multiomics data into jontly shared, partially shared and individual ones.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma)."
+  },
+  {
+    "objectID": "research.html#biological-collaborations",
+    "href": "research.html#biological-collaborations",
+    "title": "Research",
+    "section": "Biological collaborations",
+    "text": "Biological collaborations\n\nClonal tracing\nTBC\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
   }
 ]

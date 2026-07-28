@@ -3,9 +3,9 @@ title: "People"
 toc: false
 ---
 
-We are building a group for statistically careful, biologically engaged, and collaborative biomedical data science.
 
-## Current Members
+
+## Current Members (in chronological order)
 
 ::: {.people-grid}
 ::: {.person-card}
@@ -18,15 +18,15 @@ Statistician.
 [GitHub](https://github.com/jiadongm) | [LinkedIn](https://www.linkedin.com/in/jiadong-mao-55b30091/) | [Email](mailto:chiatungmao@gmail.com)
 :::
 
+
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/XiaochenZhang.jpeg){fig-alt="Xiaochen Zhang" .person-card-photo}
 
 #### Xiaochen Zhang
 
 PhD student, principal supervisor by Kim-Anh Lê Cao. Research: .
 :::
+
 
 ::: {.person-card}
 ![](media/ChengyiMa.jpg){fig-alt="Chengyi Ma" .person-card-photo}
@@ -36,6 +36,7 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research: .
 PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
 :::
 
+
 ::: {.person-card}
 ![](media/YifanQin.jpg){fig-alt="Yifan Qin" .person-card-photo}
 
@@ -44,15 +45,17 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
 PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
 :::
 
+
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
+![](media/YinuoSun.jpg){fig-alt="Yinuo Sun" .person-card-photo}
+
+#### Yinuo Sun
+
+Research assistant. Research:
 :::
 
-#### Alejandro Efraín Marín Peralta
 
-PhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. Research:.
-:::
+
 
 ::: {.person-card}
 ::: {.person-placeholder}
@@ -66,7 +69,7 @@ PhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .
 
 ::: {.person-card}
 ::: {.person-placeholder}
-Photo pending
+![](media/LaurenUrsich.jpg){fig-alt="Lauren Ursich" .person-card-photo}
 :::
 
 #### Lauren Ursich
@@ -93,7 +96,21 @@ Photo pending
 
 MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:
 :::
+
+
+::: {.person-card}
+![](media/Efra.jpg){fig-alt="Efra Marin Peralta" .person-card-photo}
+
+#### Alejandro Efraín (Efra) Marín Peralta
+
+PhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. 
+Research: spatial metabolomics, transcriptomics and multiomics integration.
 :::
+
+
+:::
+
+
 
 
 
@@ -101,35 +118,23 @@ MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Re
 
 ::: {.people-grid}
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/YidiDeng.jpg){fig-alt="Yidi Deng" .person-card-photo}
 
 #### Dr Yidi Deng
 
-Completed PhD (principal supervisor Kim-Anh Lê Cao), now postdoctoral researcher at Florey Institute.
+Completed PhD (principal supervisor Kim-Anh Lê Cao), now postdoc at Florey Institute.
 :::
+
+
+
 
 
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
-
-#### Yinuo Sun
-
-Former research assistant; now research assistant at Monash.
-:::
-
-
-::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/HongyuZhao.jpg){fig-alt="Hongyu Zhao" .person-card-photo}
 
 #### Hongyu Zhao
 
-Completed MSc in Data Science (principal supervisor Kim-Anh Lê Cao).
+Completed MSc in Data Science (principal supervisor Kim-Anh Lê Cao). Now secondary mathematics teacher in China.
 :::
 
 

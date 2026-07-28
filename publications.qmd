@@ -7,11 +7,11 @@ Names of lab members are shown in **bold**. \* indicates equal contribution.
 
 ## 2026
 
-Ma, C., **Mao, J.**\*, Lê Cao, K.-A.\* (2026). Multivariate integration of histological images and gene expression data: a comparative review. [bioRxiv](https://doi.org/10.64898/2026.06.02.729734).
+**Ma, C.**, **Mao, J.**\*, Lê Cao, K.-A.\* (2026). Multivariate integration of histological images and gene expression data: a comparative review. [bioRxiv](https://doi.org/10.64898/2026.06.02.729734).
 
 **Mao, J.**, Choi, J.\* & Lê Cao, K.-A.\* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00183-9). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
 
-Deng, Y., **Mao, J.**\*, Choi, J.\* & Lê Cao, K.-A.\* (2026). Scalable cell-specific coexpression networks for granular regulatory pattern discovery with NeighbourNet. [Genome Research](https://genome.cshlp.org/content/early/2026/03/26/gr.281171.125.abstract). \[Co-senior author\]
+**Deng, Y.**, **Mao, J.**\*, Choi, J.\* & Lê Cao, K.-A.\* (2026). Scalable cell-specific coexpression networks for granular regulatory pattern discovery with NeighbourNet. [Genome Research](https://genome.cshlp.org/content/early/2026/03/26/gr.281171.125.abstract). \[Co-senior author\]
 
 Liu, X.-Z., Panina, Y., Cai, W., Fernández-García, J., Peng-Winkler, Y., **Mao, J.**, … Fendt, S.-M. (2026). Targeting the lipid metabolism proteins FASN and GPAM in alveolar type II cells decreases lung metastasis. [Cancer Discovery](https://doi.org/10.1158/2159-8290.cd-25-0191).
 
@@ -19,13 +19,13 @@ Liu, X.-Z., Panina, Y., Cai, W., Fernández-García, J., Peng-Winkler, Y., **Mao
 
 Kuo, M., Lê Cao, K.-A., Kodikara, S.\*, **Mao, J.**\*, Sankaran, K.\* (2025). phylobar: an R package for multiresolution compositional barplots in omics studies. [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag151/8540456?login=false). \[Co-senior author\]
 
-Zhang, X., **Mao, J.**\* & Lê Cao, K.-A.\* (2025). CellDiffusion: a generative model to annotate single-cell and spatial RNA-seq using bulk references. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.27.684671v1.abstract). \[Co-senior author\]
+**Zhang, X.**, **Mao, J.**\* & Lê Cao, K.-A.\* (2025). CellDiffusion: a generative model to annotate single-cell and spatial RNA-seq using bulk references. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.27.684671v1.abstract). \[Co-senior author\]
 
 Kodikara, S.\*, **Mao, J.**\*, San Valentin, E. M. D., Do, K.-A., Reyes-Gibby, C. & Lê Cao, K.-A. (2025). Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1%7D%7B\emph%7BbioRxiv%7D%7D). \[Co-first author\]
 
 ## 2024
 
-**Mao, J.**, Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03755-8).
+**Mao, J.**, **Deng, Y.** & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03755-8).
 
 
 ## Under Review
