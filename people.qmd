@@ -91,9 +91,7 @@ MSc Bioinformatics student. Research:
 
 
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/LachlanRowles.jpg){fig-alt="Lachlan Rowles" .person-card-photo}
 
 #### Lachlan Rowles
 
