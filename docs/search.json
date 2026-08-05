@@ -67,7 +67,7 @@
     "href": "publications.html#section",
     "title": "Publications",
     "section": "2026",
-    "text": "2026\nMa, C., Mao, J.*, Lê Cao, K.-A.* (2026). Multivariate integration of histological images and gene expression data: a comparative review. bioRxiv.\nMao, J., Choi, J.* & Lê Cao, K.-A.* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. Cell Reports Methods. Seminar recording\nDeng, Y., Mao, J.*, Choi, J.* & Lê Cao, K.-A.* (2026). Scalable cell-specific coexpression networks for granular regulatory pattern discovery with NeighbourNet. Genome Research. [Co-senior author]\nLiu, X.-Z., Panina, Y., Cai, W., Fernández-García, J., Peng-Winkler, Y., Mao, J., … Fendt, S.-M. (2026). Targeting the lipid metabolism proteins FASN and GPAM in alveolar type II cells decreases lung metastasis. Cancer Discovery."
+    "text": "2026\nSun, Y., Marron, J. S., Lê Cao, K.-A.* & Mao, J.* (Accepted). DIVAS: an R package for identifying shared and individual vari- ations of multiomics data. Bioinformatics. bioRxiv version.\nMa, C., Mao, J.*, Lê Cao, K.-A.* (2026). Multivariate integration of histological images and gene expression data: a comparative review. bioRxiv.\nMao, J., Choi, J.* & Lê Cao, K.-A.* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. Cell Reports Methods. Seminar recording\nDeng, Y., Mao, J.*, Choi, J.* & Lê Cao, K.-A.* (2026). Scalable cell-specific coexpression networks for granular regulatory pattern discovery with NeighbourNet. Genome Research. [Co-senior author]\nLiu, X.-Z., Panina, Y., Cai, W., Fernández-García, J., Peng-Winkler, Y., Mao, J., … Fendt, S.-M. (2026). Targeting the lipid metabolism proteins FASN and GPAM in alveolar type II cells decreases lung metastasis. Cancer Discovery."
   },
   {
     "objectID": "publications.html#section-1",
@@ -81,7 +81,7 @@
     "href": "publications.html#section-2",
     "title": "Publications",
     "section": "2024",
-    "text": "2024\nMao, J., Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. Genome Biology."
+    "text": "2024\nMao, J., Deng, Y. & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. Genome Biology.\nDeng, Y., Mao, J.*, Choi, J.* & Lê Cao, K-A.* (2024). StableMate: a statistical method to select stable predictors in omics data. NAR Genomics and Bioinformatics."
   },
   {
     "objectID": "publications.html#under-review",

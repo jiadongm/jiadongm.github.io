@@ -7,6 +7,9 @@ Names of lab members are shown in **bold**. \* indicates equal contribution.
 
 ## 2026
 
+**Sun, Y.**, Marron, J. S., Lê Cao, K.-A.* & **Mao, J.**\* (Accepted). DIVAS: an R package for identifying shared and individual vari-
+ations of multiomics data. Bioinformatics. [bioRxiv version](https://www.biorxiv.org/content/10.64898/2026.01.12.698985v1).
+
 **Ma, C.**, **Mao, J.**\*, Lê Cao, K.-A.\* (2026). Multivariate integration of histological images and gene expression data: a comparative review. [bioRxiv](https://doi.org/10.64898/2026.06.02.729734).
 
 **Mao, J.**, Choi, J.\* & Lê Cao, K.-A.\* (2026). Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies. [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00183-9). [Seminar recording](https://mixomics.org/2025/02/webinar-%cf%86-space-st-a-platform-agnostic-method-to-identify-cell-states-in-spatial-transcriptomics-studies/)
@@ -27,6 +30,7 @@ Kodikara, S.\*, **Mao, J.**\*, San Valentin, E. M. D., Do, K.-A., Reyes-Gibby, C
 
 **Mao, J.**, **Deng, Y.** & Lê Cao, K.-A. (2024). Φ-Space: Continuous phenotyping of single-cell multi-omics data. [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03755-8).
 
+**Deng, Y.**, **Mao, J.**\*, Choi, J.* & Lê Cao, K-A.* (2024). StableMate: a statistical method to select stable predictors in omics data. [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/article/6/4/lqae130/7786164).
 
 ## Under Review
 
