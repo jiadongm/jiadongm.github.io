@@ -228,7 +228,7 @@
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "Contact",
-    "text": "Contact\n\nEmail: jiadong.mao [at] unimelb.edu.au\nPhone (office hours):"
+    "text": "Contact\n\nEmail: jiadong.mao [at] unimelb.edu.au\nPhone (office hours): +61 3903 58018"
   },
   {
     "objectID": "contact.html#prospective-students",
@@ -242,7 +242,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research questions that we are working on."
+    "text": "We work on the edge cases in bioinformatics — problems that cannot be satisfactorily solved by ‘standard’ workflows. Fortunately for us, bioinformatics has a rather large edge, large enough for us to dance on."
   },
   {
     "objectID": "research.html#modelling-complex-cell-states",
@@ -319,7 +319,7 @@
     "href": "index.html",
     "title": "Jiadong Mao Lab",
     "section": "",
-    "text": "I’m Jiadong Mao, Lecturer of Statistics for Omics at School of Mathematics and Statistics, University of Melbourne. Based at Melbourne Integrative Genomics (MIG), my group work closely with scientists and clinicians to analyse large, complex omics data.\nAt Mao lab we solve biological problems statistically. Our collaborators range from medical specialists such as oncologists, rheumatologists and haematologists, to biologists such as immunologists, microbiologists and veterinary scientists. We talk to biologists regularly to understand what scientific problems they tackle, what types of data they collect and what data analysis challenges they face. Based on this understanding we then develop statistical and machine learning approaches for solving common analytical problems the community is facing."
+    "text": "GitHub LinkedIn"
   },
   {
     "objectID": "index.html#our-research",
@@ -558,5 +558,61 @@
     "title": "Research",
     "section": "Biological collaborations",
     "text": "Biological collaborations\n\nClonal tracing\nTBC\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
+  },
+  {
+    "objectID": "research.html#whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments",
+    "href": "research.html#whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments",
+    "title": "Research",
+    "section": "What’s so special about spatial? Effective design of spatial omics experiments",
+    "text": "What’s so special about spatial? Effective design of spatial omics experiments\nThe field of spatial biology has entered a new phase: researchers are beginning to ask what spatial omics offers beyond single-cell omics and low-throughput imaging. This leads to two sets of questions. First, when do we genuinely benefit from spatial information? What do spatial markers look like, and how can we make full use of tissue location, cellular neighbourhoods and tissue architecture? Second, when do we genuinely need high-throughput measurements? Which questions can be answered only with high-dimensional spatial omics, rather than conventional lower-dimensional approaches such as H&E imaging and immunostaining? These questions are central to experimental design. Spatial omics remains expensive, so understanding when spatial information and high dimensionality add value will help us use limited budgets more effectively, potentially by combining complementary technologies."
+  },
+  {
+    "objectID": "research.html#sample-size-calculation-for-single-cell-what-a-horrifying-idea",
+    "href": "research.html#sample-size-calculation-for-single-cell-what-a-horrifying-idea",
+    "title": "Research",
+    "section": "Sample size calculation for single-cell? What a horrifying idea!",
+    "text": "Sample size calculation for single-cell? What a horrifying idea!\nTBC"
+  },
+  {
+    "objectID": "research.html#new-research-questions",
+    "href": "research.html#new-research-questions",
+    "title": "Research",
+    "section": "New research questions",
+    "text": "New research questions\n\nWhat’s so special about spatial? Effective design of spatial omics experiments\nThe field of spatial biology has entered a new phase: researchers are beginning to ask what spatial omics offers beyond single-cell omics and low-throughput imaging. This leads to two sets of questions. First, when do we genuinely benefit from spatial information? What do spatial markers look like, and how can we make full use of tissue location, cellular neighbourhoods and tissue architecture? Second, when do we genuinely need high-throughput measurements? Which questions can be answered only with high-dimensional spatial omics, rather than conventional lower-dimensional approaches such as H&E imaging and immunostaining? These questions are central to experimental design. Spatial omics remains expensive, so understanding when spatial information and high dimensionality add value will help us use limited budgets more effectively, potentially by combining complementary technologies.\n\n\nSample size calculation for single-cell? What a horrifying idea!\nTBC"
+  },
+  {
+    "objectID": "research.html#ongoing-methodological-projects",
+    "href": "research.html#ongoing-methodological-projects",
+    "title": "Research",
+    "section": "Ongoing methodological projects",
+    "text": "Ongoing methodological projects\n\nCell states on a continuum\nMany biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.\nRepresentative work:\n\nΦ-Space: continuous phenotyping of single-cell multi-omics data.\nΦ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies.\n\nΦ-Space is essentially supervised dimension reduction (thousands of genes –&gt; dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g. doublet deconvolution).\n\n\nWhat’s in a doublet? Doublet deconvolution\nDoublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.\nΦ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing.\n\n\nHarmony in diversity: shared, partially shared and individual variations in multiomics\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. Most multiomics integration tools tell you what factors are shared by different omics layer some also tell you what factors are individual to each omics layer; but they do not tell you what is partially shared. Biologically jointly shared variations are likely to represent biological pathways that involve all omics layers.\nHowever, as we increase the number of omics layers, we do not expect to see many factors that are common to all of them. What is partially shared and what is not shared (individual to omics layers) become more important.\nCollaborating with Prof J S Marron’s group at UNC Chapel Hill, we have developed the DIVAS R package, implementing Marron’s DIVAS method. DIVAS is a powerful matrix factorisation tool for sort all the signal components in multiomics data into jontly shared, partially shared and individual ones.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma).\n\n\n\nGene regulation and causal discovery\nTBC\nRepresentative work:\n\nNeighbourNet for scalable cell-specific coexpression networks (Yidi Deng).\nStableMate (Yidi Deng)."
+  },
+  {
+    "objectID": "research.html#ongoing-biological-projects",
+    "href": "research.html#ongoing-biological-projects",
+    "title": "Research",
+    "section": "Ongoing biological projects",
+    "text": "Ongoing biological projects\n\nClonal tracing\nTBC\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
+  },
+  {
+    "objectID": "research.html#new-questions",
+    "href": "research.html#new-questions",
+    "title": "Research",
+    "section": "New questions",
+    "text": "New questions\n\nWhat’s so special about spatial? Effective design of spatial omics experiments\nThe field of spatial biology has entered a new phase: researchers are beginning to ask what spatial omics offers beyond single-cell omics and low-throughput imaging. This leads to two sets of questions. First, when do we genuinely benefit from spatial information? What do spatial markers look like, and how can we make full use of tissue location, cellular neighbourhoods and tissue architecture? Second, when do we genuinely need high-throughput measurements? Which questions can be answered only with high-dimensional spatial omics, rather than conventional lower-dimensional approaches such as H&E imaging and immunostaining? These questions are central to experimental design. Spatial omics remains expensive, so understanding when spatial information and high dimensionality add value will help us use limited budgets more effectively, potentially by combining complementary technologies.\n\n\nSample size calculation for single-cell? What a horrifying idea!\nTBC"
+  },
+  {
+    "objectID": "research.html#ongoing-projects-methodology",
+    "href": "research.html#ongoing-projects-methodology",
+    "title": "Research",
+    "section": "Ongoing projects (methodology)",
+    "text": "Ongoing projects (methodology)\n\nCell states on a continuum\nMany biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.\nRepresentative work:\n\nΦ-Space: continuous phenotyping of single-cell multi-omics data.\nΦ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies.\n\nΦ-Space is essentially supervised dimension reduction (thousands of genes –&gt; dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g. doublet deconvolution).\n\n\nWhat’s in a doublet? Doublet deconvolution\nDoublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.\nΦ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing.\n\n\nHarmony in diversity: shared, partially shared and individual variations in multiomics\nBiomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. Most multiomics integration tools tell you what factors are shared by different omics layer some also tell you what factors are individual to each omics layer; but they do not tell you what is partially shared. Biologically jointly shared variations are likely to represent biological pathways that involve all omics layers.\nHowever, as we increase the number of omics layers, we do not expect to see many factors that are common to all of them. What is partially shared and what is not shared (individual to omics layers) become more important.\nCollaborating with Prof J S Marron’s group at UNC Chapel Hill, we have developed the DIVAS R package, implementing Marron’s DIVAS method. DIVAS is a powerful matrix factorisation tool for sort all the signal components in multiomics data into jontly shared, partially shared and individual ones.\nRepresentative work:\n\nDIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)\nIntegration of histological images and gene expression data (PhD student Chengyi Ma).\n\n\n\nGene regulation and causal discovery\nTBC\nRepresentative work:\n\nNeighbourNet for scalable cell-specific coexpression networks (Yidi Deng).\nStableMate (Yidi Deng)."
+  },
+  {
+    "objectID": "research.html#ongoing-projects-biology",
+    "href": "research.html#ongoing-projects-biology",
+    "title": "Research",
+    "section": "Ongoing projects (biology)",
+    "text": "Ongoing projects (biology)\n\nClonal tracing\nTBC\n\n\nMapping the spatio-temporal metabolic atlas of aging and obesity\nThis KU Leuven-Melbourne Joint PhD Program supports two PhD students on the spatio-temporal metabolic changes that accompany aging and obesity. The project connects expertise in metabolism, spatial biology, and computational analysis across the Fendt lab at KU Leuven and the Lê Cao lab at the University of Melbourne. As a co-PI at Melbourne, Jiadong contributes to the Melbourne supervision team, helping guide the statistical and computational side of the project.\n\n\nFinding the missing causes of early-onset breast cancer\nThis Cancer Australia Research Initiative project, led by A/Prof Shuai Li at the School of Population and Global Health, University of Melbourne, investigates why breast cancer is increasingly diagnosed in women before age 50 and why much of the risk remains unexplained. As an Associate Investigator, Jiadong contributes expertise in multi-omics integration, with a focus on discovering disease mechanisms and risk markers."
   }
 ]

@@ -155,9 +155,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Research questions that we are working on.</p>
-<section id="cell-states-on-a-continuum" class="level2">
-<h2 class="anchored" data-anchor-id="cell-states-on-a-continuum">Cell states on a continuum</h2>
+<div class="research-statement">
+<p>We work on the edge cases in bioinformatics — problems that cannot be satisfactorily solved by ‘standard’ workflows. Fortunately for us, bioinformatics has a rather large edge, large enough for us to dance on.</p>
+</div>
+<section id="new-questions" class="level2 research-group-title">
+<h2 class="research-group-title anchored" data-anchor-id="new-questions">New questions</h2>
+<section id="whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments" class="level3">
+<h3 class="anchored" data-anchor-id="whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments">What’s so special about spatial? Effective design of spatial omics experiments</h3>
+<p>The field of spatial biology has entered a new phase: researchers are beginning to ask what spatial omics offers beyond single-cell omics and low-throughput imaging. This leads to two sets of questions. First, when do we genuinely benefit from spatial information? What do spatial markers look like, and how can we make full use of tissue location, cellular neighbourhoods and tissue architecture? Second, when do we genuinely need high-throughput measurements? Which questions can be answered only with high-dimensional spatial omics, rather than conventional lower-dimensional approaches such as H&amp;E imaging and immunostaining? These questions are central to experimental design. Spatial omics remains expensive, so understanding when spatial information and high dimensionality add value will help us use limited budgets more effectively, potentially by combining complementary technologies.</p>
+</section>
+<section id="sample-size-calculation-for-single-cell-what-a-horrifying-idea" class="level3">
+<h3 class="anchored" data-anchor-id="sample-size-calculation-for-single-cell-what-a-horrifying-idea">Sample size calculation for single-cell? What a horrifying idea!</h3>
+<p>TBC</p>
+</section>
+</section>
+<section id="ongoing-projects-methodology" class="level2 research-group-title">
+<h2 class="research-group-title anchored" data-anchor-id="ongoing-projects-methodology">Ongoing projects (methodology)</h2>
+<section id="cell-states-on-a-continuum" class="level3">
+<h3 class="anchored" data-anchor-id="cell-states-on-a-continuum">Cell states on a continuum</h3>
 <p>Many biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.</p>
 <p>Representative work:</p>
 <ul>
@@ -166,17 +181,13 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Φ-Space is essentially supervised dimension reduction (thousands of genes –&gt; dozens of cell types), hence Φ-Space is very flexible. We are interested in extending this framework to solve problems where mixture of cell types is an issue (e.g.&nbsp;doublet deconvolution).</p>
 </section>
-<section id="whats-in-a-doublet-doublet-deconvolution" class="level2">
-<h2 class="anchored" data-anchor-id="whats-in-a-doublet-doublet-deconvolution">What’s in a doublet? Doublet deconvolution</h2>
+<section id="whats-in-a-doublet-doublet-deconvolution" class="level3">
+<h3 class="anchored" data-anchor-id="whats-in-a-doublet-doublet-deconvolution">What’s in a doublet? Doublet deconvolution</h3>
 <p>Doublets are a common by-product of single-cell protocols: the tissue sample is expected to be dissolved and separated into individual cells, but some cells may fail to be separted, resulting in doublets (multiplets are also possible but they are much rarer than doublets). As a result, some observational units in the single-cell matrix might not be single cells, but mixture of cells.</p>
 <p>Φ-Space provides a solution to finding out what types of cells are present in doublets. Existing tools such as scDblFinder only classify doublets, differentiating them from singlets (single cells), but do not identify what cell types are present in doublets. Our Φ-Space-based doublet detection and deconvolution provides additional layer of information to doublet detection, helping researchers to make informed decisions about doublet processing.</p>
 </section>
-<section id="whats-so-special-about-spatial" class="level2">
-<h2 class="anchored" data-anchor-id="whats-so-special-about-spatial">What’s so special about spatial?</h2>
-<p>TBC</p>
-</section>
-<section id="harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics" class="level2">
-<h2 class="anchored" data-anchor-id="harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics">Harmony in diversity: shared, partially shared and individual variations in multiomics</h2>
+<section id="harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics" class="level3">
+<h3 class="anchored" data-anchor-id="harmony-in-diversity-shared-partially-shared-and-individual-variations-in-multiomics">Harmony in diversity: shared, partially shared and individual variations in multiomics</h3>
 <p>Biomedical studies increasingly combine gene expression, histology, proteomics, epigenomics, microbiome profiles, clinical records, and other data types. Most multiomics integration tools tell you what factors are shared by different omics layer some also tell you what factors are individual to each omics layer; but they do not tell you what is partially shared. Biologically jointly shared variations are likely to represent biological pathways that involve all omics layers.</p>
 <p>However, as we increase the number of omics layers, we do not expect to see many factors that are common to all of them. What is partially shared and what is not shared (individual to omics layers) become more important.</p>
 <p>Collaborating with Prof J S Marron’s group at UNC Chapel Hill, we have developed the DIVAS R package, implementing Marron’s DIVAS method. DIVAS is a powerful matrix factorisation tool for sort all the signal components in multiomics data into jontly shared, partially shared and individual ones.</p>
@@ -186,8 +197,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Integration of histological images and gene expression data (PhD student Chengyi Ma).</li>
 </ul>
 </section>
-<section id="gene-regulation-and-causal-discovery" class="level2">
-<h2 class="anchored" data-anchor-id="gene-regulation-and-causal-discovery">Gene regulation and causal discovery</h2>
+<section id="gene-regulation-and-causal-discovery" class="level3">
+<h3 class="anchored" data-anchor-id="gene-regulation-and-causal-discovery">Gene regulation and causal discovery</h3>
 <p>TBC</p>
 <p>Representative work:</p>
 <ul>
@@ -195,8 +206,9 @@ ul.task-list li input[type="checkbox"] {
 <li>StableMate (Yidi Deng).</li>
 </ul>
 </section>
-<section id="biological-collaborations" class="level2">
-<h2 class="anchored" data-anchor-id="biological-collaborations">Biological collaborations</h2>
+</section>
+<section id="ongoing-projects-biology" class="level2 research-group-title">
+<h2 class="research-group-title anchored" data-anchor-id="ongoing-projects-biology">Ongoing projects (biology)</h2>
 <section id="clonal-tracing" class="level3">
 <h3 class="anchored" data-anchor-id="clonal-tracing">Clonal tracing</h3>
 <p>TBC</p>

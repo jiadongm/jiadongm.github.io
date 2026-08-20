@@ -49,6 +49,66 @@
   width: 220px;
 }
 
+.profile-links {
+  margin: 1rem 0 1.5rem;
+}
+
+.profile-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.profile-links a {
+  align-items: center;
+  border: 1px solid #c5d0d7;
+  border-radius: 999px;
+  color: #345f80;
+  display: inline-flex;
+  font-weight: 600;
+  gap: 0.45rem;
+  padding: 0.4rem 0.75rem;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  background: #f2f5f7;
+  border-color: #517699;
+  color: #294d69;
+}
+
+.profile-links i {
+  font-size: 1.15rem;
+}
+
+.research-statement {
+  background: #f7f9fb;
+  border: 1px solid #d9e1e6;
+  border-left: 5px solid #517699;
+  border-radius: 8px;
+  font-size: 1.25rem;
+  line-height: 1.55;
+  margin: 0 0 2.5rem;
+  max-width: 860px;
+  padding: 1.25rem 1.5rem;
+}
+
+.research-statement p:last-child {
+  margin-bottom: 0;
+}
+
+h2.research-group-title {
+  border-bottom: 2px solid #d9e1e6;
+  color: #517699;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin: 3.5rem 0 1.5rem;
+  padding-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+
 .theme-grid {
   display: grid;
   gap: 1rem;
@@ -121,6 +181,11 @@
 }
 
 @media (max-width: 700px) {
+  .research-statement {
+    font-size: 1.1rem;
+    padding: 1rem 1.15rem;
+  }
+
   .person {
     grid-template-columns: 1fr;
   }
