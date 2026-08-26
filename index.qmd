@@ -18,6 +18,8 @@ I'm Jiadong Mao, Lecturer of Statistics for Omics at [School of Mathematics and 
 
 At Mao lab we solve biological problems statistically. Our collaborators range from medical specialists such as oncologists, rheumatologists and haematologists, to biologists such as immunologists, microbiologists and veterinary scientists. We talk to biologists regularly to understand what scientific problems they tackle, what types of data they collect and what data analysis challenges they face. Based on this understanding we then develop statistical and machine learning approaches for solving common analytical problems the community is facing.
 
+Beyond research, I'm committed to upskilling students and early-career researchers in statistics and science communication, and to raising awareness of darker chapters in the history of statistics and biology, such as eugenics.
+
 ::: {.profile-links}
 <a href="https://github.com/jiadongm"><i class="bi bi-github" aria-hidden="true"></i><span>GitHub</span></a>
 <a href="https://www.linkedin.com/in/jiadong-mao-55b30091/"><i class="bi bi-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
