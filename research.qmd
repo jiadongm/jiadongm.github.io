@@ -17,7 +17,10 @@ The field of spatial biology has entered a new phase: researchers are beginning 
 
 ### Sample size calculation for single-cell? What a horrifying idea!
 
-TBC
+What counts as a 'sample' in a single-cell study? Suppose we recruit six patients with lung cancer, collect tumour and adjacent normal tissue from each patient, and measure three million cells. The dataset contains six patients, twelve specimens and three million cells — but which number matters depends on the biological question and the level at which we want to draw conclusions.
+
+These observational units are not independent: cells from the same specimen are usually more similar than cells from different patients. The **effective sample size** may therefore be much smaller than the number of cells, and ignoring this dependence can lead to pseudo-replication and exaggerated statistical significance. We are developing principled, computationally efficient ways to model this dependence, including meta-cells and spatial autocorrelation—to support sample-size and power calculations for single-cell and spatial omics studies.
+
 
 
 ## Ongoing projects (methodology) {.research-group-title}
@@ -52,12 +55,10 @@ Collaborating with Prof J S Marron's group at UNC Chapel Hill, we have developed
 
 Representative work:
 
-- DIVAS (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)
+- DIVAS Software (RA Yinuo Sun, collaboration with Prof J S Marron at UNC Chapel Hill)
 - Integration of histological images and gene expression data (PhD student Chengyi Ma).
 
 ### Gene regulation and causal discovery
-
-TBC
 
 Representative work:
 
@@ -67,9 +68,11 @@ Representative work:
 
 ## Ongoing projects (biology) {.research-group-title}
 
-### Clonal tracing 
+### Clonal tracing in cancer and blood cell formation (haematopoiesis)
 
-TBC
+Cancer is an evolutionary process. Cancer cells acquire different mutations, compete for resources and leave descendants, allowing some populations to undergo 'clonal expansion'. A clone is a group of cells descended from the same ancestral cell and carrying a shared genetic marker or lineage label. Because treatment may eliminate some clones while others survive and expand, the clonal composition of a cancer can change over time. This ongoing evolution is one reason why cancer can be difficult to cure.
+
+Blood formation, or haematopoiesis, is also a clonal process: a relatively small number of stem and progenitor cells continually produce the many mature cells in our blood. We use clonal tracing data and dynamic models to reconstruct these lineages and quantify how clones emerge, persist, compete and respond to intervention. Our projects apply this framework to questions such as detecting and understanding minimal residual disease after cancer treatment, and tracking how donor stem-cell clones establish and maintain blood production following stem-cell transplantation.
 
 ### Mapping the spatio-temporal metabolic atlas of aging and obesity
 
