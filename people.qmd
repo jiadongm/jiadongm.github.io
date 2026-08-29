@@ -58,9 +58,7 @@ Research assistant. Research:
 
 
 ::: {.person-card}
-::: {.person-placeholder}
-Photo pending
-:::
+![](media/DiMu.JPG){fig-alt="Di Mu" .person-card-photo}
 
 #### Di Mu
 
@@ -106,6 +104,16 @@ MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Re
 
 PhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourne joint PhD program. 
 Research: spatial metabolomics, transcriptomics and multiomics integration.
+:::
+
+
+::: {.person-card}
+![](media/Raj.png){fig-alt="Raj" .person-card-photo}
+
+
+#### Gnanaprakasam Kameshraj
+
+BSc in Data Science student. Research:
 :::
 
 
