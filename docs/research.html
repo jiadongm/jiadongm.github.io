@@ -160,6 +160,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="new-questions" class="level2 research-group-title">
 <h2 class="research-group-title anchored" data-anchor-id="new-questions">New questions</h2>
+<section id="can-we-reconstruct-cell-lineages-from-sparse-multiomics-data" class="level3">
+<h3 class="anchored" data-anchor-id="can-we-reconstruct-cell-lineages-from-sparse-multiomics-data">Can we reconstruct cell lineages from sparse multiomics data?</h3>
+<p>Cells that descend from the same ancestor share mutations, so in principle genetic variation can be used to reconstruct cellular ‘family trees’. In practice, single-cell experiments only reveal a tiny and highly non-random fraction of this information: one measurement may observe a mutation that another completely misses.</p>
+<p>This creates an interesting statistical problem. Can we infer hidden clones from many sparse and biased observations, especially when different data types reveal different parts of the same underlying genotype? We are interested in models that combine partially overlapping information from single-cell RNA and chromatin accessibility (ATAC) data to recover clonal structure, quantify uncertainty and determine when such reconstruction is actually possible.</p>
+<p>Biologically this project may lead to a method that infers cell lineages, such as cancer clones, from public scRNA-seq, scATAC-seq and multiome (scRNA+ATAC-seq) data.</p>
+</section>
 <section id="whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments" class="level3">
 <h3 class="anchored" data-anchor-id="whats-so-special-about-spatial-effective-design-of-spatial-omics-experiments">What’s so special about spatial? Effective design of spatial omics experiments</h3>
 <p>The field of spatial biology has entered a new phase: researchers are beginning to ask what spatial omics offers beyond single-cell omics and low-throughput imaging. This leads to two sets of questions. First, when do we genuinely benefit from spatial information? What do spatial markers look like, and how can we make full use of tissue location, cellular neighbourhoods and tissue architecture? Second, when do we genuinely need high-throughput measurements? Which questions can be answered only with high-dimensional spatial omics, rather than conventional lower-dimensional approaches such as H&amp;E imaging and immunostaining? These questions are central to experimental design. Spatial omics remains expensive, so understanding when spatial information and high dimensionality add value will help us use limited budgets more effectively, potentially by combining complementary technologies.</p>
@@ -172,6 +178,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ongoing-projects-methodology" class="level2 research-group-title">
 <h2 class="research-group-title anchored" data-anchor-id="ongoing-projects-methodology">Ongoing projects (methodology)</h2>
+<section id="how-many-genes-should-be-used-for-gene-ontology-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="how-many-genes-should-be-used-for-gene-ontology-analysis">How many genes should be used for Gene Ontology analysis?</h3>
+<p>Gene Ontology analysis is widely used in bioinformatics to interpret lists of genes by identifying biological processes that are over-represented. For example, after comparing two biological conditions, researchers may take a list of differentially expressed genes and ask whether the list is enriched for terms such as immune response, cell cycle or metabolism.</p>
+<p>A key practical question is how many genes should be included in the analysis. In many studies, this choice is made arbitrarily, such as using the top 50. However, the number of selected genes can strongly affect the resulting Gene Ontology terms and therefore the biological interpretation.</p>
+<p>This project will explore how Gene Ontology results change as the number of selected genes varies. The student will use public gene-expression data, generate ranked gene lists, run enrichment analyses across a range of gene-list sizes, and compare the stability, specificity and interpretability of the resulting GO terms. The aim is to develop practical guidance for choosing gene-list sizes in exploratory bioinformatics analyses.</p>
+</section>
 <section id="cell-states-on-a-continuum" class="level3">
 <h3 class="anchored" data-anchor-id="cell-states-on-a-continuum">Cell states on a continuum</h3>
 <p>Many biological systems cannot be described well by discrete cell-type labels alone. We develop methods for representing continuous cell states and identifying state variation in single-cell and spatial omics studies.</p>

@@ -24,7 +24,7 @@ Statistician.
 
 #### Xiaochen Zhang
 
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research: .
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: scRNA-seq, quantum machine learning and bioinformatics.
 :::
 
 
@@ -33,7 +33,7 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research: .
 
 #### Chengyi Ma
 
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: integrating omics and imaging data.
 :::
 
 
@@ -42,7 +42,7 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
 
 #### Yifan Qin
 
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: spatial multiomics, spatial metabolomics.
 :::
 
 
@@ -51,7 +51,7 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research:
 
 #### Yinuo Sun
 
-Research assistant. Research:
+Research assistant. Research: DIVAS development, multiomics integration, peptide biology.
 :::
 
 
@@ -72,7 +72,7 @@ PhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .
 
 #### Lauren Ursich
 
-PhD student, principal supervisor Leigh Walker (Florey Institute). Research: 
+PhD student, principal supervisor Leigh Walker (Florey Institute). Research: sex difference in alcohol use disorder (AUD), spatial transcriptomics. 
 :::
 
 ::: {.person-card}
@@ -81,7 +81,7 @@ PhD student, principal supervisor Leigh Walker (Florey Institute). Research:
 
 #### Jonathan Salazar
 
-MSc Bioinformatics student. Research:
+MSc Bioinformatics student. Research: gene co-expression networks, NeighbourNet.
 :::
 
 
@@ -93,7 +93,7 @@ MSc Bioinformatics student. Research:
 
 #### Lachlan Rowles
 
-MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research:
+MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research: mechanistic modelling of spatial cell states.
 :::
 
 
@@ -113,7 +113,7 @@ Research: spatial metabolomics, transcriptomics and multiomics integration.
 
 #### Gnanaprakasam Kameshraj
 
-BSc in Data Science student. Research:
+BSc in Data Science student. Research: how many genes for gene ontology?
 :::
 
 
