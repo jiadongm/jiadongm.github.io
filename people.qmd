@@ -62,7 +62,7 @@ Research assistant. Research: DIVAS development, multiomics integration, peptide
 
 #### Di Mu
 
-PhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: .
+PhD student, principal supervisor Shuai Li (UniMelb Public Health). Research: polygenic risk scores, breast cancer epidemiology, DNA methylation of twins.
 :::
 
 ::: {.person-card}

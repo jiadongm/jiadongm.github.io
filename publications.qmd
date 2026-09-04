@@ -9,7 +9,7 @@ Names of lab members are shown in **bold**. \* indicates equal contribution.
 
 Kodikara, S.\*, **Mao, J.**\*, San Valentin, E. M. D., Do, K.-A., Reyes-Gibby, C. & Lê Cao, K.-A. (Accepted). Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity. *BMC Microbiology*. Read the bioRxiv version [here](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1%7D%7B\emph%7BbioRxiv%7D%7D).
 
-**Sun, Y.**, Marron, J. S., Lê Cao, K.-A.* & **Mao, J.**\* (Accepted). DIVAS: an R package for identifying shared and individual vari-
+**Sun, Y.**, Marron, J. S., Lê Cao, K.-A.* & **Mao, J.**\* (2006). DIVAS: an R package for identifying shared and individual vari-
 ations of multiomics data. [Bioinformatics.](https://academic.oup.com/bioinformatics/article/42/8/btag615/8764130).
 
 **Ma, C.**, **Mao, J.**\*, Lê Cao, K.-A.\* (2026). Multivariate integration of histological images and gene expression data: a comparative review. [bioRxiv](https://doi.org/10.64898/2026.06.02.729734).
