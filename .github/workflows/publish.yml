@@ -1,0 +1,66 @@
+name: Render and deploy Quarto website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install R rendering dependency
+        run: Rscript -e 'install.packages("knitr", repos = "https://cloud.r-project.org")'
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render website
+        run: quarto render
+
+      # These pages predate the current Quarto source tree. Keep their public
+      # URLs and the older shared assets they require until source pages exist.
+      - name: Restore legacy generated pages
+        run: |
+          git restore --source=HEAD -- \
+            docs/blog/posts/ArmchairNaturalist/index.html \
+            docs/blog/posts/BirthOfANaturalist/index.html \
+            docs/blog/posts/ReBirthOfANaturalist/index.html \
+            docs/blog/posts/blog_normalcurve/index.html \
+            docs/blog/posts/test/index.html \
+            docs/media/JonathanSalazar.pdf \
+            docs/media/Jonathan_Salazar.pdf \
+            docs/site_libs/bootstrap/bootstrap.min.css \
+            docs/site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css \
+            docs/site_libs/quarto-html/quarto-syntax-highlighting.css
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
