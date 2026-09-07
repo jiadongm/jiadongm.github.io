@@ -111,7 +111,7 @@ Research: spatial metabolomics, transcriptomics and multiomics integration.
 ![](media/Raj.png){fig-alt="Raj" .person-card-photo}
 
 
-#### Gnanaprakasam Kameshraj
+#### Kameshraj (Raj) Gnanaprakasam
 
 BSc in Data Science student. Research: how many genes for gene ontology?
 :::
