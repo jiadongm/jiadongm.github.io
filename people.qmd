@@ -5,7 +5,7 @@ toc: false
 
 ## Principal Investigator
 
-::: {.people-grid}
+::: {.people-grid .pi-grid}
 
 ::: {.person-card}
 ![](media/JiadongViolin.JPG){fig-alt="Jiadong Mao" .person-card-photo}

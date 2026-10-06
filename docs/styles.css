@@ -149,6 +149,10 @@ h2.research-group-title {
   margin: 1rem 0 2rem;
 }
 
+.pi-grid .person-card {
+  max-width: 300px;
+}
+
 .people-tabs .nav-tabs {
   border-bottom: 0;
   gap: 0.5rem;
