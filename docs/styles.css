@@ -147,6 +147,33 @@ h2.research-group-title {
   margin: 1rem 0 2rem;
 }
 
+.people-tabs .nav-tabs {
+  border-bottom: 0;
+  gap: 0.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.people-tabs .nav-link {
+  border: 1px solid #c5d0d7;
+  border-radius: 999px;
+  color: #345f80;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+}
+
+.people-tabs .nav-link:hover,
+.people-tabs .nav-link:focus-visible {
+  background: #f2f5f7;
+  border-color: #517699;
+  color: #294d69;
+}
+
+.people-tabs .nav-link.active {
+  background: #345f80;
+  border-color: #345f80;
+  color: #fff;
+}
+
 .person-card {
   border: 1px solid #d9e1e6;
   border-radius: 8px;

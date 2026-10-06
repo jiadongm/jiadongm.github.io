@@ -3,11 +3,10 @@ title: "People"
 toc: false
 ---
 
-
-
-## Current Members (in chronological order)
+## Principal Investigator
 
 ::: {.people-grid}
+
 ::: {.person-card}
 ![](media/JiadongViolin.JPG){fig-alt="Jiadong Mao" .person-card-photo}
 
@@ -18,33 +17,14 @@ Statistician.
 [GitHub](https://github.com/jiadongm) | [LinkedIn](https://www.linkedin.com/in/jiadong-mao-55b30091/) | [Email](mailto:chiatungmao@gmail.com)
 :::
 
-
-::: {.person-card}
-![](media/XiaochenZhang.jpeg){fig-alt="Xiaochen Zhang" .person-card-photo}
-
-#### Xiaochen Zhang
-
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research: scRNA-seq, quantum machine learning and bioinformatics.
 :::
 
+## Lab Members
 
-::: {.person-card}
-![](media/ChengyiMa.jpg){fig-alt="Chengyi Ma" .person-card-photo}
+::: {.panel-tabset .people-tabs}
+### Principal supervision
 
-#### Chengyi Ma
-
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research: integrating omics and imaging data.
-:::
-
-
-::: {.person-card}
-![](media/YifanQin.jpg){fig-alt="Yifan Qin" .person-card-photo}
-
-#### Yifan Qin
-
-PhD student, principal supervisor by Kim-Anh Lê Cao. Research: spatial multiomics, spatial metabolomics.
-:::
-
+::: {.people-grid}
 
 ::: {.person-card}
 ![](media/YinuoSun.jpg){fig-alt="Yinuo Sun" .person-card-photo}
@@ -54,8 +34,53 @@ PhD student, principal supervisor by Kim-Anh Lê Cao. Research: spatial multiomi
 Research assistant. Research: DIVAS development, multiomics integration, peptide biology.
 :::
 
+::: {.person-card}
+![](media/JonathanSalazar.jpg){fig-alt="Jonathan Salazar" .person-card-photo}
 
 
+#### Jonathan Salazar
+
+MSc Bioinformatics student. Research: gene co-expression networks, NeighbourNet.
+:::
+
+::: {.person-card}
+![](media/Raj.png){fig-alt="Raj" .person-card-photo}
+
+
+#### Kameshraj (Raj) Gnanaprakasam
+
+BSc in Data Science student. Research: how many genes for gene ontology?
+:::
+
+:::
+
+### Co-supervision
+
+::: {.people-grid}
+
+::: {.person-card}
+![](media/XiaochenZhang.jpeg){fig-alt="Xiaochen Zhang" .person-card-photo}
+
+#### Xiaochen Zhang
+
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: scRNA-seq, quantum machine learning and bioinformatics.
+:::
+
+::: {.person-card}
+![](media/ChengyiMa.jpg){fig-alt="Chengyi Ma" .person-card-photo}
+
+#### Chengyi Ma
+
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: integrating omics and imaging data.
+:::
+
+::: {.person-card}
+![](media/YifanQin.jpg){fig-alt="Yifan Qin" .person-card-photo}
+
+#### Yifan Qin
+
+PhD student, principal supervisor by Kim-Anh Lê Cao. Research: spatial multiomics, spatial metabolomics.
+:::
 
 ::: {.person-card}
 ![](media/DiMu.JPG){fig-alt="Di Mu" .person-card-photo}
@@ -76,26 +101,12 @@ PhD student, principal supervisor Leigh Walker (Florey Institute). Research: sex
 :::
 
 ::: {.person-card}
-![](media/JonathanSalazar.jpg){fig-alt="Jonathan Salazar" .person-card-photo}
-
-
-#### Jonathan Salazar
-
-MSc Bioinformatics student. Research: gene co-expression networks, NeighbourNet.
-:::
-
-
-
-
-
-::: {.person-card}
 ![](media/LachlanRowles.jpg){fig-alt="Lachlan Rowles" .person-card-photo}
 
 #### Lachlan Rowles
 
 MSc Mathematics and Statistics student, principal supervisor Kim-Anh Lê Cao. Research: mechanistic modelling of spatial cell states.
 :::
-
 
 ::: {.person-card}
 ![](media/Efra.jpg){fig-alt="Efra Marin Peralta" .person-card-photo}
@@ -106,26 +117,12 @@ PhD student, principal supervisor Kim-Anh Lê Cao. Funded by the Leuven-Melbourn
 Research: spatial metabolomics, transcriptomics and multiomics integration.
 :::
 
-
-::: {.person-card}
-![](media/Raj.png){fig-alt="Raj" .person-card-photo}
-
-
-#### Kameshraj (Raj) Gnanaprakasam
-
-BSc in Data Science student. Research: how many genes for gene ontology?
 :::
 
-
-:::
-
-
-
-
-
-## Alumni
+### Alumni
 
 ::: {.people-grid}
+
 ::: {.person-card}
 ![](media/YidiDeng.jpg){fig-alt="Yidi Deng" .person-card-photo}
 
@@ -134,10 +131,6 @@ BSc in Data Science student. Research: how many genes for gene ontology?
 Completed PhD (principal supervisor Kim-Anh Lê Cao), now postdoc at Florey Institute.
 :::
 
-
-
-
-
 ::: {.person-card}
 ![](media/HongyuZhao.jpg){fig-alt="Hongyu Zhao" .person-card-photo}
 
@@ -145,7 +138,6 @@ Completed PhD (principal supervisor Kim-Anh Lê Cao), now postdoc at Florey Inst
 
 Completed MSc in Data Science (principal supervisor Kim-Anh Lê Cao). Now secondary mathematics teacher in China.
 :::
-
 
 ::: {.person-card}
 ::: {.person-placeholder}
@@ -157,6 +149,6 @@ Photo pending
 Completed MSc in Mathematics and Statistics (co-supervisor Aurore Delaigle).
 :::
 
-
 :::
 
+:::
